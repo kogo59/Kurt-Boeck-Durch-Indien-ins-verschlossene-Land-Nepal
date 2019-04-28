@@ -15,7 +15,7 @@ before January 1, 1924.
 * [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) => epub, html
 * Pandoc Markdown + [WeasyPrint](https://weasyprint.org/)  => pdf
 * [Calibre](https://calibre-ebook.com/) epub to azw3
-* Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT Licence](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
+* Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
 * Scan at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Durch_Indien_ins_verschlossene_Land_Nepal.pdf)
