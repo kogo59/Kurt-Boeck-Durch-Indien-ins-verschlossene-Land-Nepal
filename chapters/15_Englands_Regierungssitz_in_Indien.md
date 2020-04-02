@@ -496,7 +496,7 @@ herhalten müssen.
 
 [^373]: [WS: *Outram, Maidan in Kalkutta*: vergleiche [James Outram (General)](https://de.wikipedia.org/wiki/James_Outram_(General))
 		[Maidan (Kolkata)](https://en.wikipedia.org/wiki/Maidan_(Kolkata)) (en)]{.footnote}
-	
+
 [^374]: [WS: *Högli, Sönderbönd*: vergleiche [Hugli](https://de.wikipedia.org/wiki/Hugli_(Fluss))
 		[Sundarbans](https://de.wikipedia.org/wiki/Sundarbans)]{.footnote}
 
@@ -510,13 +510,13 @@ herhalten müssen.
     [Chowringhee](https://en.wikipedia.org/wiki/Chowringhee) (en)]{.footnote}
 
 [^378]: [WS: *Ochterlony, Bentinck, Canning, Hardinge, Mayo, Northbrook*:
-    vergleiche [David Ochterlony](https://en.wikipedia.org/wiki/David_Ochterlony) (en), 
+    vergleiche [David Ochterlony](https://en.wikipedia.org/wiki/David_Ochterlony) (en),
     [William Cavendish-Bentinck](https://de.wikipedia.org/wiki/William_Cavendish-Bentinck)
-    (regierte 1828-1835), 
-    [Charles Canning](https://de.wikipedia.org/wiki/Charles_Canning,_1._Earl_Canning) (regierte 1856-1862), 
-    [Henry Hardinge](https://de.wikipedia.org/wiki/Henry_Hardinge,_1._Viscount_Hardin) (regierte 1844-1848), 
-    [Richard Bourke, 6th Earl of Mayo](https://en.wikipedia.org/wiki/Richard_Bourke,_6th_Earl_of_Mayo) 
-    (en, regierte 1869-1872), 
+    (regierte 1828-1835),
+    [Charles Canning](https://de.wikipedia.org/wiki/Charles_Canning,_1._Earl_Canning) (regierte 1856-1862),
+    [Henry Hardinge](https://de.wikipedia.org/wiki/Henry_Hardinge,_1._Viscount_Hardin) (regierte 1844-1848),
+    [Richard Bourke, 6th Earl of Mayo](https://en.wikipedia.org/wiki/Richard_Bourke,_6th_Earl_of_Mayo)
+    (en, regierte 1869-1872),
     [Thomas Baring, 1st Earl of Northbrook](https://en.wikipedia.org/wiki/Thomas_Baring,_1st_Earl_of_Northbrook)
     (en, regierte 1872-1876)]{.footnote}
 
@@ -526,7 +526,7 @@ herhalten müssen.
     erräubert? Geschichtlicher Nachweis wie England Ost-Indien nahm. Ein
     Seitenstück zum Burenkrieg.*]{.footnote}
 
-[^381]: [WS: *Burenvölkchen*: vergleiche [Zweiter Burenkrieg](https://de.wikipedia.org/wiki/Zweiter_Burenkrieg), 
+[^381]: [WS: *Burenvölkchen*: vergleiche [Zweiter Burenkrieg](https://de.wikipedia.org/wiki/Zweiter_Burenkrieg),
 	zur Drucklegung also hochaktuell.]{.footnote}
 
 [^382]: [WS: *Old Courthouse Street, Palast des Vizekönigs*: vergleiche [Raj Bhavan](https://en.wikipedia.org/wiki/Raj_Bhavan_(West_Bengal))
@@ -543,24 +543,24 @@ herhalten müssen.
     1757-1803: Im Siebenjährigen Krieg (bis 1763) wurde Frankreichs
     Kolonialeinfluss verdrängt. [Hungersnot in Bengalen 1770](https://de.wikipedia.org/wiki/Hungersnot_in_Bengalen_1770).
     1773 wurde die Hauptstadt der Ostindien-Kompanie nach Kalkutta verlegt. Ebenfalls
-    ab 1773 wurde die [Herrschaft der Kompanie](https://en.wikipedia.org/wiki/Company_rule_in_India) (en) 
+    ab 1773 wurde die [Herrschaft der Kompanie](https://en.wikipedia.org/wiki/Company_rule_in_India) (en)
     immer weiter durch England reglementiert und schließlich 1858 in eine Kolonie umgewandelt.]{.footnote}
 
 [^387]: [WS: *Dalhousie-Square*: vergleiche [B. B. D. Bagh](https://en.wikipedia.org/wiki/B._B._D._Bagh) (en)]{.footnote}
 
 [^388]: [WS: *Grand Hotel*: vergleiche [Oberoi Grand Hotel](https://en.wikipedia.org/wiki/Grand_Hotel_(Kolkata)) (en)]{.footnote}
 
-[^389]: [WS: *Edenpark, botanischer Garten, Museum*: vergleiche [Eden Gardens](https://de.wikipedia.org/wiki/Ranji_Stadium) 
-	direkt neben dem Eden Garden Park; [Acharya Jagadish Chandra Bose Indian Botanic Garden](https://en.wikipedia.org/wiki/Acharya_Jagadish_Chandra_Bose_Indian_Botanic_Garden) (en); 
+[^389]: [WS: *Edenpark, botanischer Garten, Museum*: vergleiche [Eden Gardens](https://de.wikipedia.org/wiki/Ranji_Stadium)
+	direkt neben dem Eden Garden Park; [Acharya Jagadish Chandra Bose Indian Botanic Garden](https://en.wikipedia.org/wiki/Acharya_Jagadish_Chandra_Bose_Indian_Botanic_Garden) (en);
 	[Indian Museum](https://de.wikipedia.org/wiki/Indian_Museum)]{.footnote}
 
-[^390]: [WS: *künstlicher Indigo*: vergleiche [Indigo](https://de.wikipedia.org/wiki/Indigo), 
+[^390]: [WS: *künstlicher Indigo*: vergleiche [Indigo](https://de.wikipedia.org/wiki/Indigo),
 	entwickelt 1879 durch [Adolf von Baeyer](https://de.wikipedia.org/wiki/Adolf_von_Baeyer)]{.footnote}
 
 [^391]: [WS: *Hansalinie*: vergleiche [Deutsche Dampfschifffahrts-Gesellschaft „Hansa“](https://de.wikipedia.org/wiki/Deutsche_Dampfschifffahrts-Gesellschaft_„Hansa“)]{.footnote}
 
 [^392]: [WS: *indischen Nationalkongresse*: vergleiche [Indische Unabhängigkeitsbewegung, Entstehung des indischen Nationalismus
-    (1885--1905) und des Indischen Nationalkongresses](https://en.wikipedia.org/wiki/Indian_independence_movement#Rise_of_Indian_nationalism_(1885–1905))]{.footnote}
+    (1885---1905) und des Indischen Nationalkongresses](https://en.wikipedia.org/wiki/Indian_independence_movement#Rise_of_Indian_nationalism_(1885–1905))]{.footnote}
 
 [^393]: [WS: *Brüder Natu*: Balasaheb Balwant Ramchandra Natu (1855-1914)
     und Tatyasaheb Hari Ramchandra Natu]{.footnote}
@@ -569,7 +569,7 @@ herhalten müssen.
 
 [^395]: [WS: [entspräche 2018 ca.](https://de.wikipedia.org/wiki/Vorlage:Inflation) 39 Cent]{.footnote}
 
-[^396]: [WS: *bald bequemen müssen*: ein Beispiel für spätere Reformen waren die 
+[^396]: [WS: *bald bequemen müssen*: ein Beispiel für spätere Reformen waren die
 	[Government of India Acts](https://en.wikipedia.org/wiki/Government_of_India_Act) (en)]{.footnote}
 
 [^397]: [WS: *Sultan Tippu*: vergleiche [Tipu Sultan](https://de.wikipedia.org/wiki/Tipu_Sultan)]{.footnote}
@@ -588,4 +588,3 @@ herhalten müssen.
 [^403]: [WS: *Totalisator*: vergleich [Totalisator](https://de.wikipedia.org/wiki/Totalisator)]{.footnote}
 
 [^404]: [WS: *Gitarre*: eigentlich eine [Tanbur](https://de.wikipedia.org/wiki/Tanbur)]{.footnote}
-

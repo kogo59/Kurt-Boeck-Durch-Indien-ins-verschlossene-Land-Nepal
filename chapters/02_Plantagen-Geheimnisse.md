@@ -16,11 +16,11 @@ denn Kaffee gedeiht, ebenso wie Kakao, am besten in hügeligem, aber
 nicht allzu feuchtem oder heißem Gelände zwischen sechs- und
 zwölfhundert Meter Höhe.
 
-Die Bahn trägt uns vom Meeressaum durch einen 60--70 Kilometer breiten,
+Die Bahn trägt uns vom Meeressaum durch einen 60---70 Kilometer breiten,
 überaus fruchtbaren Landstrich und durch wohlbewässerte Reisfelder, dann
 steigt sie durch sumpfiges Buschdickicht, wo wundervoll schillernde
 Falter von einer farbenstrotzenden Blüte zur anderen gaukeln, zu üppigen
-Bergwaldungen empor, und läuft dabei -- häufig in Tunnels -- mit so
+Bergwaldungen empor, und läuft dabei --- häufig in Tunnels --- mit so
 kecken, im Verhältnis von 1:45 ansteigenden Bogen an steilen, oft
 bedrohlich überhängenden schwarzen Felsmassen entlang, daß die Reise für
 schwache Nerven geradezu aufregend wird; die zahlreichen Sprengungen im
@@ -113,7 +113,7 @@ verspüren, sich zu plagen.
 
 :::: { .wrap-100  }
 ![Hof einer Kaffeepflanzung.](Kurt_boeck_indien_nepal_020.jpg "Kurt_boeck_indien_nepal_020.jpg"){#b020}
-:::: 
+::::
 
 Die auf dem folgenden Bilde vor ihrem Kaffeebeerenberg hingegossene
 Beißkünstlerin wird gewiß unter ihresgleichen wegen ihrer rundlichen
@@ -203,7 +203,7 @@ Millionen 608 000 Mark betrug^[^25]^.
 
 :::: {.float-left .w-60 }
 ![Thee-Ernte.](Kurt_boeck_indien_nepal_022A.jpg "Kurt_boeck_indien_nepal_022A.jpg"){#b022A}
-:::: 
+::::
 
 
 Daß diese Unmenge von etwa 100 Millionen Pfund Thee, wozu Indien noch
@@ -218,7 +218,7 @@ zu besitzen, wenigstens verbraucht jeder Deutsche davon durchschnittlich
 
 :::: {.float-right .w-60 }
 ![Maschinen zum Rollen und Sieben des Thees.](Kurt_boeck_indien_nepal_022B.jpg "Kurt_boeck_indien_nepal_022B.jpg"){#b022B}
-:::: 
+::::
 
 Eine Theepflanzung gleicht einem saftig grünen, wogenden Meer. Ein
 unbeschreiblich feiner Duft strömt aus den Blüten und Blättern, die je
@@ -296,7 +296,7 @@ seiner Nippfiguren in der Stube umherflogen.
 
 :::: {.float-left .w-60 }
 ![Junge Tamulin.](Kurt_boeck_indien_nepal_024.jpg "Kurt_boeck_indien_nepal_024.jpg"){#b024}
-:::: 
+::::
 
 An diesen wüsten Auftritt mußte ich denken, als ich mit der naiven
 Absicht, Kakaoschoten zu pflücken, in die Kneipgesellschaft geriet, die
@@ -387,7 +387,7 @@ und rannte mit unverständlichem, leidenschaftlichem Gemurmel ins Haus.
 
 :::: {.float-left .w-50 }
 ![`Tamulin`, unter einem Kakaoschoten tragenden Baum eine solche zerschneidend.](Kurt_boeck_indien_nepal_026.jpg "Kurt_boeck_indien_nepal_026.jpg"){#b026}
-:::: 
+::::
 
 Da stand ich nun mit meinen Kakaoschoten im Arm und dem zarten weißen
 Schleier über dem Haupt und hätte am liebsten das wehmutsvolle Lied
@@ -405,7 +405,7 @@ verdient haben könnte.
 
 :::: { .break-before .wrap-100 }
 ![Der See von Kandi.](Kurt_boeck_indien_nepal_027A.jpg "Kurt_boeck_indien_nepal_027A.jpg"){#b027A}
-:::: 
+::::
 
 Es wäre unrecht, von Ceylon zu scheiden, ohne einen Augenblick in der
 Stadt Kandi zu rasten, die jedoch nur Europäer und Tamulen mit diesem
@@ -421,7 +421,7 @@ dort in den hohlen Bambusstauden nistenden Kobraschlangen preisgegeben.
 
 :::: { .wrap-100 }
 ![`Buddhazahn-Tempel` in Kandi; rechts eine Dagoba.](Kurt_boeck_indien_nepal_027B.jpg "Kurt_boeck_indien_nepal_027B.jpg"){#b027B}
-:::: 
+::::
 
 Wie vor alters strömen auch noch heutigen Tages im Juli die
 buddhistischen Sinhalesen zum Perahera-Feste^[^27]^ nach dem
@@ -510,7 +510,7 @@ noch 350 Fuß.
 
 :::: { .break-before .wrap-100 }
 ![`Pungi-Mönch`, der für sein Kloster Lebensmittel einsammelt.](Kurt_boeck_indien_nepal_029.jpg "Kurt_boeck_indien_nepal_029.jpg"){#b029}
-:::: 
+::::
 
 In der Nähe des Tempels von Kandi wimmelt es von eindrucksvollen
 Priestererscheinungen, von denen manche wohl infolge übertrieben
@@ -572,7 +572,7 @@ fanden aus Religionshaß
 Verfolgte auf Ceylon schützende Zuflucht. Nestorianer, schiitische
 Moslems, vor dem siegreich vordringenden Islam aus Indien flüchtende
 Hindus^[^31]^, sowie von den Holländern verfolgte, durch die Portugiesen
-gewaltsam zu Katholiken bekehrte Eingeborene ---- sie alle wurden gleich
+gewaltsam zu Katholiken bekehrte Eingeborene --- sie alle wurden gleich
 duldsam von den eingeborenen Sinhalesen aufgenommen, ja, sie erbauten
 sogar im Jahre 1845 zum Gedächtnis des bei ihnen beliebten, vom Blitz
 erschlagenen englischen Kapitäns Roger eine christliche
@@ -587,7 +587,7 @@ Urheber des angeblichen Fußabdruckes erklären.
 
 :::: {.float-right .w-50 }
 ![Häuptling der Hochland-Sinhalesen in Festtracht.](Kurt_boeck_indien_nepal_031.jpg "Kurt_boeck_indien_nepal_031.jpg"){#b031}
-:::: 
+::::
 
 Bei dem erwähnten Umzug des Buddhazahnes und bei anderen großen Festen,
 z. B. solchen zu Ehren ganz besonders hochstehender reisender
@@ -621,7 +621,7 @@ Küsten noch den eingeborenen Herrschern gehörte.
 
 :::: {.float-left .w-60 }
 ![Tochter des Sinhalesenhäuptlings.](Kurt_boeck_indien_nepal_032A.jpg "Kurt_boeck_indien_nepal_032A.jpg"){#b032A}
-:::: 
+::::
 
 Nach einer längeren Zeit des niedergehenden Erfolges scheint das mühsame
 Suchen nach Perlmuscheln wieder lohnender zu werden, und wenn erst
@@ -640,7 +640,7 @@ freilich nur wohlhabende gläubige Patienten zu Gemüte führen können.
 
 :::: {.break-before .wrap-100 }
 ![Sinhalesische Teufelstänzer heilen einen Kranken.](Kurt_boeck_indien_nepal_032B.jpg "Kurt_boeck_indien_nepal_032B.jpg"){#b032B}
-:::: 
+::::
 
 Eine absonderliche Eigentümlichkeit der Insel sind die ceylonischen
 Teufelstänzer, die besonders in verkehrsfernen Gegenden noch in hohem
@@ -681,7 +681,7 @@ sobald der Name des gerade wirkenden Dämons erwähnt wird.
 
 :::: {.float-right .w-30 }
 ![Sinhalesenschule.](Kurt_boeck_indien_nepal_033.jpg "Kurt_boeck_indien_nepal_033.jpg"){#b033}
-:::: 
+::::
 
 Durch mehr als viertausend Schulen, in denen etwa 150 000 Kinder, Knaben
 und Mädchen gemeinsam, unterrichtet werden, sucht die englische
@@ -721,7 +721,7 @@ werden, als dies bei uns zu Lande geschieht.
 
 :::: {.float-left .w-60 }
 ![Ein weiblicher Leutnant der Heilsarmee; links sein Adjutant, vor ihm Rekruten.](Kurt_boeck_indien_nepal_034.jpg "Kurt_boeck_indien_nepal_034.jpg"){#b034}
-:::: 
+::::
 
 Ganz anders geht es natürlich in den Kreisen der christlich getauften
 Sinhalesen zu, deren Christentum jedoch vielfach von recht asiatischem
@@ -766,7 +766,7 @@ verehrt wurden.
 
 :::: { .wrap-40 }
 ![Maske eines Dämonenbeschwörers. <small>1/6.</small>](Kurt_boeck_indien_nepal_035.jpg "Kurt_boeck_indien_nepal_035.jpg"){#b035}
-:::: 
+::::
 :::
 
 ****
@@ -795,20 +795,20 @@ verehrt wurden.
 
 [^26]: [WS: *Hogarthsche Karikatur*: vergleiche [William Hogarth](https://de.wikipedia.org/wiki/William_Hogarth) (1697-1764), englischer
     Künstler, bekannt unter anderem durch karikierende Sittengemälde)]{.footnote}
-    
+
 [^27]: [WS: *Perahera*: vergleiche [Kandy Esala Perahera](https://de.wikipedia.org/wiki/Kandy_Esala_Perahera)]{.footnote}
 
 [^28]: [WS: *Wihara*: vergleiche [Vihara](https://de.wikipedia.org/wiki/Vihara)
     (buddhistisches Kloster); der eigentliche Name des beschriebenen
     Heiligtums ist [Sri Dalada Maligawa](https://de.wikipedia.org/wiki/Sri_Dalada_Maligawa)]{.footnote}
-    
+
 [^29]: [WS: *Kornak, Cornak*: südindische Bezeichnung für *Mahout*]{.footnote}
 
 [^30]: [WS: *Pungi*: vergleiche [Bhikkhu](https://de.wikipedia.org/wiki/Bhikkhu)
     (buddistische Mönche im Allgemeinen); der stolze Titel Pungi/Phongy
     ist eine birmanische Anrede im
     [Theravada](https://de.wikipedia.org/wiki/Theravada)-Buddhismus]{.footnote}
-    
+
 [^31]: [WS-Hinweis: Die Begrifflichkeit „Hindu(s)“ verwendet Boeck für
     eine nicht genauer spezifizierte Volksgruppe, welche
     [Hindi](https://de.wikipedia.org/wiki/Hindi) spricht. „Hindutum“ und „Hinduismus“
@@ -817,11 +817,11 @@ verehrt wurden.
     unterscheidet Boeck meist klar zwischen muslimischen oder
     brahminischen Hindus, erstere wohl indische Muslime, die er
     ethnisch-kulturell als Hindus verortete.]{.footnote}
-    
+
 [^32]: [WS: *Kapitän Roger*: Die [St.-Markus-Kirche von Badulla](https://en.wikipedia.org/wiki/St_Mark’s_Church,_Badulla) (en) wurde nach dem
     Tod von Major Thomas William Rogers (1804-1845, bekannt für das
     Erlegen von mindestens 1400 Wildelefanten) erbaut.]{.footnote}
-    
+
 [^33]: [WS: *Adamspik*: vergleiche [Adam's Peak](https://de.wikipedia.org/wiki/Adam’s_Peak)]{.footnote}
 
 [^34]: [WS: *russischer Zar 1894-1918*: vergleiche [Nikolaus II.](https://de.wikipedia.org/wiki/Nikolaus_II._(Russland))]{.footnote}
@@ -833,5 +833,3 @@ verehrt wurden.
 [^37]: [WS: *Mahakola Jakscha*: vergleiche
     [Mahakala](https://de.wikipedia.org/wiki/Mahakala) (zur Gottheit) und
     [Yaksha](https://de.wikipedia.org/wiki/Yaksha) (zu den Geistwesen)]{.footnote}
-    
-

@@ -2,7 +2,7 @@
 
 :::: wrap-100
 ![Moschee der fünfhundert Säulen in Ahmedabad.^[^274]^](Kurt_boeck_indien_nepal_146.jpg "Kurt_boeck_indien_nepal_146.jpg"){#b146}
-:::: 
+::::
 
 ::: { .justified }
 **A**uf den europäischen Reisenden werden in Indien zunächst die größten
@@ -44,7 +44,7 @@ Nutzen und Zweck.
 
 :::: { .float-right .w-60 }
 ![Gartentor der Tadsch-Anlagen.](Kurt_boeck_indien_nepal_147.jpg "Kurt_boeck_indien_nepal_147.jpg"){#b147}
-:::: 
+::::
 
 Ich müßte oft Gesagtes wiederholen und ein endloses, ermüdendes Kapitel
 schreiben, wollte ich die Überbleibsel aus der Glanzzeit der
@@ -83,7 +83,7 @@ genannt werden muß.
 
 :::: {.float-left .w-60 }
 ![Tadsch-Mahal in Agra.](Kurt_boeck_indien_nepal_148.jpg "Kurt_boeck_indien_nepal_148.jpg"){#b148}
-:::: 
+::::
 
 Wie auf allen Gebieten der Kunst Einfachheit und Reinheit des
 darstellenden Empfindens immerdar das Größte und die edelsten Wirkungen
@@ -120,7 +120,7 @@ anderes Bauwerk von ähnlicher Pracht errichten zu können.
 
 :::: {.float-right .w-30 }
 ![Marmorteller mit Einlage von farbigen Steinen.<small>1/12</small>](Kurt_boeck_indien_nepal_149.jpg "Kurt_boeck_indien_nepal_149.jpg"){#b149}
-:::: 
+::::
 
 Unstreitig wurde die Absicht des Erbauers vollkommen erreicht,
 allerdings mächtig unterstützt von einer unübertrefflich feinfühligen
@@ -163,7 +163,7 @@ wurde.
 
 :::: {.float-left .w-50 }
 ![Perl-Moschee in Agra.](Kurt_boeck_indien_nepal_150.jpg "Kurt_boeck_indien_nepal_150.jpg"){#b150}
-:::: 
+::::
 
 Präsentierend tritt die Wache ins Gewehr, sobald der Wagen eines
 Europäers durch das gähnende Tor dieser zyklopischen Burgwälle^[^282]^
@@ -219,7 +219,7 @@ kennt.
 
 :::: {.float-right .w-50 }
 ![Die Privat-Audienzhalle in Agra.](Kurt_boeck_indien_nepal_151.jpg "Kurt_boeck_indien_nepal_151.jpg"){#b151}
-:::: 
+::::
 
 Neben den Mausoleen, Moscheen, Palästen und sonstigen Marmorbauten Agras
 verdient aber die etwa 35 Kilometer westlich von Agra in den Bergen
@@ -258,7 +258,7 @@ eines indischen Fürsten beizuwohnen.
 
 :::: {.float-left .w-50 }
 ![Dschuma-Moschee in Delhi.](Kurt_boeck_indien_nepal_152.jpg "Kurt_boeck_indien_nepal_152.jpg"){#b152}
-:::: 
+::::
 
 Es drückt den Geist unsäglich nieder, in Delhi überall die Spuren jähen
 Schicksalswechsels zu sehen und tiefste Armut und unaufhaltbaren Verfall
@@ -343,7 +343,7 @@ häufigen tollen Schakale geradezu als Landplage gelten.
 
 :::: wrap-100
 ![Ein Kaufmann und sein Schreiber.](Kurt_boeck_indien_nepal_154.jpg "Kurt_boeck_indien_nepal_154.jpg"){#b154}
-:::: 
+::::
 
 So umfassend die Aussicht der Turmzinne über die endlosen Ruinenfelder
 des alten Delhi auch ist, so erweckt doch eine nahe am Kutub-Minar
@@ -383,7 +383,7 @@ Abhaltung der Sonnenwärme von dem unteren Teile des Wagens.
 
 :::: wrap-100
 ![Töpferwaren aus Delhi.<small>1/7.</small>](Kurt_boeck_indien_nepal_155.jpg "Kurt_boeck_indien_nepal_155.jpg"){#b155}
-:::: 
+::::
 
 Als dritte im Bunde dieser einst unermeßlich reichen, nunmehr
 verfallenden Hauptsitze des Islam kann Ahmedabad gelten, das bis zur
@@ -407,7 +407,7 @@ Bedeutung empfange.
 
 :::: wrap-100
 ![Gräber von Sultans-Gemahlinnen in Ahmedabad.](Kurt_boeck_indien_nepal_156.jpg "Kurt_boeck_indien_nepal_156.jpg"){#b156}
-:::: 
+::::
 
 Wer aufmerksamen Auges an den morschen Ruinen der zunächst von den
 Mohammedanern und dann von den rachedürstend über die Moslems
@@ -440,7 +440,7 @@ das Lehrgeld, das jeder Neuling für derartige Erfahrungen anlegen muß.
 
 :::: {.float-right .w-30 }
 ![Fenstergitter aus Marmor-Filigran.](Kurt_boeck_indien_nepal_157.jpg "Kurt_boeck_indien_nepal_157.jpg"){#b157}
-:::: 
+::::
 
 Schließlich aber darf in diesem Kranze Adschmir nicht fehlen, das,
 bereits im siebenten Jahrhundert von Mohammed Kassim^[^302]^ bedroht, sich
@@ -533,7 +533,7 @@ zu können.
 
 :::: wrap-100
 ![Wagen mit drei Insassen in Gwalior.](Kurt_boeck_indien_nepal_160.jpg "Kurt_boeck_indien_nepal_160.jpg"){#b160}
-:::: 
+::::
 
 Doch nicht nur die Erscheinungen der Festteilnehmer grenzten durch die
 trotzig-verschlagene Eigenart mahrattischer Gesichtszüge und des kühnen
@@ -612,7 +612,7 @@ verziert worden, doch wurden auch diese von den Moslems arg beschädigt.
 
 :::: wrap-60
 ![Kamel-Omnibus.](Kurt_boeck_indien_nepal_161.jpg "Kurt_boeck_indien_nepal_161.jpg"){#b161}
-:::: 
+::::
 
 :::
 
@@ -624,7 +624,7 @@ verziert worden, doch wurden auch diese von den Moslems arg beschädigt.
 
 [^275]: [WS: *Agra, Tadsch*: vergleiche [Agra](https://de.wikipedia.org/wiki/Agra), [Taj Mahal](https://de.wikipedia.org/wiki/Taj_Mahal)]{.footnote}
 
-[^276]: [WS: *Schah Dschehan*: vergleiche [Shah Jahan](https://de.wikipedia.org/wiki/Shah_Jahan), regierte 1627--1658]{.footnote}
+[^276]: [WS: *Schah Dschehan*: vergleiche [Shah Jahan](https://de.wikipedia.org/wiki/Shah_Jahan), regierte 1627---1658]{.footnote}
 
 [^277]: [WS: *Ardschmand Bonni Begum/Mumtaz Mahal*: vergleiche [Mumtaz Mahal](https://de.wikipedia.org/wiki/Mumtaz_Mahal)]{.footnote}
 
@@ -648,12 +648,12 @@ verziert worden, doch wurden auch diese von den Moslems arg beschädigt.
 
 [^286]: [WS: *Durbar*: vergleiche [Durbar](https://en.wikipedia.org/wiki/Durbar_(court))]{.footnote}
 
-[^287]: [WS: *Id-Fest*: „Fest“ (id/eid) werden unter anderem genannt: [Eid al-Fitr](https://de.wikipedia.org/wiki/Fest_des_Fastenbrechens) 
+[^287]: [WS: *Id-Fest*: „Fest“ (id/eid) werden unter anderem genannt: [Eid al-Fitr](https://de.wikipedia.org/wiki/Fest_des_Fastenbrechens)
 		und [Eid al-Adha](https://de.wikipedia.org/wiki/Islamisches_Opferfest)]{.footnote}
 
-[^288]: [WS: *Königin Viktoria*: vergleiche [Victoria](https://de.wikipedia.org/wiki/Victoria_(Vereinigtes_Königreich)) 1837--1901, ab 1876 als Kaiserin von Indien]{.footnote}
+[^288]: [WS: *Königin Viktoria*: vergleiche [Victoria](https://de.wikipedia.org/wiki/Victoria_(Vereinigtes_Königreich)) 1837---1901, ab 1876 als Kaiserin von Indien]{.footnote}
 
-[^289]: [WS: *König Eduard*: vergleiche [Eduard VII.](https://de.wikipedia.org/wiki/Eduard_VII.), regierte 1901--1910]{.footnote}
+[^289]: [WS: *König Eduard*: vergleiche [Eduard VII.](https://de.wikipedia.org/wiki/Eduard_VII.), regierte 1901---1910]{.footnote}
 
 [^290]: [WS: *Kaiser-Proklamationen*: weder Viktoria noch Eduard erschienen zu ihrer Kaiser-Proklamation in Delhi]{.footnote}
 
@@ -662,8 +662,8 @@ verziert worden, doch wurden auch diese von den Moslems arg beschädigt.
 [^292]: [WS: *Bahadur Schah und Prinzen*: vergleiche [Bahadur Shah II.](https://de.wikipedia.org/wiki/Bahadur_Shah_II.), regierte 1838-1857]{.footnote}
 
 [^293]: [WS: *Schah und\... Prinzen\... niederknallte*: vergleiche [Khooni Darwaza](https://en.wikipedia.org/wiki/Khooni_Darwaza), dort schoß
-    Hodson nicht wie hier behauptet, den Schah und die zwei Prinzen nieder, sondern zwei (von sechzehn) Prinzen mit einem Enkel: 
-    [Mirza Mughal](https://de.wikipedia.org/wiki/Mirza_Mughal), [Mirza Khizr Sultan](https://en.wikipedia.org/wiki/Mirza_Khizr_Sultan) und 
+    Hodson nicht wie hier behauptet, den Schah und die zwei Prinzen nieder, sondern zwei (von sechzehn) Prinzen mit einem Enkel:
+    [Mirza Mughal](https://de.wikipedia.org/wiki/Mirza_Mughal), [Mirza Khizr Sultan](https://en.wikipedia.org/wiki/Mirza_Khizr_Sultan) und
     [Mirza Abu Bakht](https://en.wikipedia.org/wiki/Mirza_Abu_Bakht). Der Schah und ein Großteil seiner Familie überlebten die Niederschlagung des Aufstands.]{.footnote}
 
 [^294]: [WS: *Mausoleum Hamuyans*: vergleiche [Humayun-Mausoleum](https://de.wikipedia.org/wiki/Humayun-Mausoleum)]{.footnote}

@@ -2,7 +2,7 @@
 
 :::: wrap-100
 ![Kamel-Batterie.](Kurt_boeck_indien_nepal_128.jpg "Kurt_boeck_indien_nepal_128.jpg"){#b128}
-:::: 
+::::
 
 ::: { .justified }
 **K**rieger-Heimat! Wie läßt dieses Wort alle Saiten mitschwingen, die
@@ -39,7 +39,7 @@ löste sich das Rätsel.
 
 :::: { .float-right .w-60 }
 ![Straße vor dem Rasthaus in Dschodpur; im Hintergrunde die Burg.](Kurt_boeck_indien_nepal_129.jpg "Kurt_boeck_indien_nepal_129.jpg"){#b129}
-:::: 
+::::
 
 Es bleibt wohl keinem Weltreisenden erspart, gelegentlich irgendwo
 hinterrücks angeschwärzt zu werden, und so war es mir hier bei den hohen
@@ -72,7 +72,7 @@ des Fürsten zu rehabilitieren. Mein freundlicher Reisegefährte versprach
 mir, nach seiner Rückkehr aus Australien, wohin er im Begriff war zu
 reisen, um Zuwachs für den fürstlichen Marstall einzukaufen, sich meiner
 anzunehmen, falls ich jemals wieder nach Indien käme und Lust verspüren
-sollte, das Versäumte nachzuholen. 
+sollte, das Versäumte nachzuholen.
 
 Nach zwei Jahren kam ich wieder nach Dschodpur und merkte, daß es gar
 keinen höheren Genuß gibt, als ein Ziel zu erreichen, von dem man wegen
@@ -86,7 +86,7 @@ seinen Palast, kurz, ich konnte keine glänzendere Genugtuung erwarten.
 
 :::: {.float-left .w-50 }
 ![Der Kuli hinter dem Karren trägt die vom Verfasser gebaute Geheimkamera auf dem Kopf.](Kurt_boeck_indien_nepal_130.jpg "Kurt_boeck_indien_nepal_130.jpg"){#b130}
-:::: 
+::::
 
 Bereits nach zwei Tagen bat ich den Hofbeamten, der mir wie ein
 dienstbereiter Schatten folgte, mich freundlichst mir selbst zu
@@ -205,19 +205,22 @@ Inhalt manche vergeblich nach „Kunst im Kleinen“ herumsuchenden
 Überbrettler^[^250]^ mit noch gefälligeren Kunstmitteln als Klinglingling
 und Trallala vertraut machen kann. Wie überaus gefällig malt z. B. der
 ebenso geniale wie launige Hala^[^251]^ selbst Alltäglichkeiten, wie
-folgende Küchenszene: 
+folgende Küchenszene:
 
-:::: {.fs-xxs .wrap-100 .margin-left-xl .no-margin-top }
-<br />Töchterlein fein,<br />
-Laß dein Blasen'mal sein,<br />
-Bringst doch kein Feuer zustande!<br />
-Zu schwach ist noch dein Hauch,<br />
-Noch beißt dich ja der Rauch,<br />
-Schon glühn dir die Augen am Rande!<br />
-Nicht so mit Tränen den Herd besprengt,<br />
-Nicht so mit Wallen den Busen beengt,<br />
-Sonst sprengt er noch alle Bande!<br /> 
-:::: 
+:::: { .fs-xxs }
+|
+|       Töchterlein fein,
+|       Laß dein Blasen'mal sein,
+|       Bringst doch kein Feuer zustande!
+|       Zu schwach ist noch dein Hauch,
+|       Noch beißt dich ja der Rauch,
+|       Schon glühn dir die Augen am Rande!
+|       Nicht so mit Tränen den Herd besprengt,
+|       Nicht so mit Wallen den Busen beengt,
+|       Sonst sprengt er noch alle Bande!
+|   
+|   
+::::
 
 Der freundliche Leser möge sich jedoch gefälligst selbst in diese
 Schnadahüpfl-Schätze^[^252]^ vertiefen, in denen das indische Volksleben
@@ -226,16 +229,19 @@ geistvoller Weise zeigt, wie dieses Volk zur Zeit seines geistigen
 Höhestandes geliebt und empfunden, gedacht und genossen hat. Daß aber
 der Indier durchaus nicht so stumpf für Naturschönheit ist, wie manche
 argwöhnen, bezeugen Gedichte wie desselben Halas „Einzug des Lenzes“,
-das ich ebenfalls in Brunnhofers Übertragung zitiere: 
+das ich ebenfalls in Brunnhofers Übertragung zitiere:
 
-:::: { .fs-xxs .wrap-100 .margin-left-xl .no-margin-top }
-<br />Ordnet den Festzug und schmückt euch mit Kränzen,<br />
-Flechtet Guirlanden und streichet frisch an!<br /> 
-Niemals selbst bei eines Fürsten Empfahn!<br /> 
-Bricht unter Jubeln und Spielen und Tänzen<br />
-Also die Freude des Volkes sich Bahn,<br />
-Wie bei dem jährlichen Einzug des Lenzen!<br /> 
-:::: 
+:::: { .fs-xxs }
+|
+|       Ordnet den Festzug und schmückt euch mit Kränzen,
+|       Flechtet Guirlanden und streichet frisch an!
+|       Niemals selbst bei eines Fürsten Empfahn!
+|       Bricht unter Jubeln und Spielen und Tänzen
+|       Also die Freude des Volkes sich Bahn,
+|       Wie bei dem jährlichen Einzug des Lenzen!
+|     
+|     
+::::
 
 Ich komme förmlich in Versuchung, den indischen Dichtergarten nach
 Herzenslust zu plündern und eine Blumenlese, zumal aus den erotischen
@@ -243,29 +249,35 @@ Liedchen, wie sie die Bajaderen zwitschern, hier einzuflechten, begnüge
 mich jedoch, in der Hoffnung, recht viele Leser zum stillen Genuß der
 erwähnten Sammlungen indischer Geistesschätze angeregt zu haben, von
 dieser Gattung nur Kalidasas^[^253]^ von Leopold von Schröder übertragene
-Verse anzuführen: 
+Verse anzuführen:
 
-:::: { .fs-xxs .wrap-100 .margin-left-xl .no-margin-top }
-<br />O Mädchen mit den Lotusaugen,<br />
-Schau mich noch einmal wieder an,<br />
-Vielleicht, daß ich von meinen Leiden<br />
-Durch deinen Blick genesen kann.<br />
-Ich hört' es oftmals schon erzählen,<br />
-Daß Gift bekämpfet wird durch Gift:<br />
-Die Krankheit, die dein Blick erzeugte,<br /> 
-Sie heilt, wenn neu dein Blick mich trifft!<br /> 
-:::: 
+:::: { .fs-xxs  }
+|
+|       O Mädchen mit den Lotusaugen,
+|       Schau mich noch einmal wieder an,
+|       Vielleicht, daß ich von meinen Leiden
+|       Durch deinen Blick genesen kann.
+|       Ich hört' es oftmals schon erzählen,
+|       Daß Gift bekämpfet wird durch Gift:
+|       Die Krankheit, die dein Blick erzeugte,
+|       Sie heilt, wenn neu dein Blick mich trifft!
+|     
+|     
+::::
 
 Sollte jemand aber gar grämlich werden, daß ich dieses Werk mit poetischen Federchen
 ziere, dem rufe ich mit dem fröhlichen Spotte des Sregarasatakas^[^254]^
-zu: 
+zu:
 
-:::: { .fs-xxs .wrap-100 .margin-left-xl .no-margin-top }
-<br />Der Weise sitzt versunken ganz;<br />
-In ihm strahlt hehren Wissens Glanz.<br />
-Rehäuglein kommt und schielt ihn an:<br />
-Gleich ist's um seinen Witz getan! ---<br /> 
-:::: 
+:::: { .fs-xxs }
+|
+|       Der Weise sitzt versunken ganz;
+|       In ihm strahlt hehren Wissens Glanz.
+|       Rehäuglein kommt und schielt ihn an:
+|       Gleich ist's um seinen Witz getan! ---
+|     
+|     
+::::
 
 Doch kehren wir zu unseren Künstlerinnen zurück.
 
@@ -279,7 +291,7 @@ dichten Masse herauszuziehen und seitwärts treten zu lassen.
 
 :::: {.float-left .w-30 }
 ![Vortänzerin.](Kurt_boeck_indien_nepal_134A.jpg "Kurt_boeck_indien_nepal_134A.jpg"){#b134A}
-:::: 
+::::
 
 Durch diese Auslese schien ich aber einen Griff in ein Wespennest zu
 tun; ich habe ja schon manche Entrüstungsrufe aus weiblichen Kehlen vor
@@ -302,7 +314,7 @@ Gruppenbild tatsächlich ganz gegen meine Absicht.
 
 :::: {.wrap-90 .break-before }
 ![Die Damen des Corps de Ballet von Dschodpur.](Kurt_boeck_indien_nepal_134B.jpg "Kurt_boeck_indien_nepal_134B.jpg"){#b134B}
-:::: 
+::::
 
 Mein Pfiffikus von Diener glaubte wohl bei dieser Gelegenheit einen
 Extra-Backschisch^[^256]^ verdienen zu können und hielt bei der Abfahrt der
@@ -322,7 +334,7 @@ gezählt.
 
 :::: { .float-right .w-50 }
 ![Junge Tänzerin.](Kurt_boeck_indien_nepal_135.jpg "Kurt_boeck_indien_nepal_135.jpg"){#b135}
-:::: 
+::::
 
 Ich wußte nicht recht, ob ich über dieses Erlebnis lachen oder zürnen
 sollte, als schon ein neues Schaustück vor meinem Bungalo erschien, der
@@ -354,7 +366,7 @@ aufheben können, liegt auf der Hand.
 
 :::: wrap-100
 ![Straße in Dschodpur; vorn Kamelreiter, dahinter Wasserträgerinnen.](Kurt_boeck_indien_nepal_136.jpg "Kurt_boeck_indien_nepal_136.jpg"){#b136}
-:::: 
+::::
 
 Die Straßen und Märkte von Dschodpur bieten dem Architekten mindestens
 ebenso fesselnde Bilder wie dem Freunde urindischen Volkstums; hat man
@@ -372,11 +384,11 @@ einen theatralisch-phantastischen Eindruck hervorbringen.
 
 :::: {.wrap-60  .float-right}
 ![Mit Ochsen bespanntes Geschütz.](Kurt_boeck_indien_nepal_137B.jpg "Kurt_boeck_indien_nepal_137B.jpg"){#b137B}
-:::: 
+::::
 
 :::: {.wrap-100 .break-before }
 ![Radschputen-Fürst mit Würdenträgern.](Kurt_boeck_indien_nepal_137A.jpg "Kurt_boeck_indien_nepal_137A.jpg"){#b137A}
-:::: 
+::::
 
 Die Radschputen von Dschodpur fallen nicht nur durch ausdrucksvolle
 Gesichtszüge, sondern auch durch ihre stolze Tracht und durch ganz
@@ -410,7 +422,7 @@ lechzenden Männern durchwogt war.
 
 :::: {.float-left .wrap-60 }
 ![In Stein gehauene Häuser-Fassaden in Dschodpur.](Kurt_boeck_indien_nepal_138.jpg "Kurt_boeck_indien_nepal_138.jpg"){#b138}
-:::: 
+::::
 
 Nirgends blühte im alten, gewerbfleißigen Indien die Waffenschmiedekunst
 so herrlich wie hier in der Radschputana, bis im Jahre 1857 auch dieses
@@ -448,7 +460,7 @@ Nachahmungen indischer Altertümer abgespeist werden.
 
 :::: wrap-100
 ![Burg Dschodpur.](Kurt_boeck_indien_nepal_139.jpg "Kurt_boeck_indien_nepal_139.jpg"){#b139}
-:::: 
+::::
 
 Mit unwiderstehlicher Gewalt dringt die Erinnerung an die alten Zeiten
 Indiens, die in mancher Hinsicht gar nicht so entsetzlich waren; wie sie
@@ -507,14 +519,17 @@ Kriegsgefangene hingeschlachtet oder geächtete, nur mit Schwert und
 Schild ausgestattete Stammesgenossen auf wildem Rappen aus dem Burgtor
 gejagt werden. Überall hatte ich in der Radschputana das Gefühl, daß
 hier einst sicherlich dem Lebensideal der Indier nachgelebt wurde, das
-Nitisataka^[^261]^ in die Worte gekleidet hat: 
+Nitisataka^[^261]^ in die Worte gekleidet hat:
 
-:::: {.fs-xxs .wrap-80 .no-margin-top }
-<br />Friedlich im Glück sein, trotzig in Fehden,<br />
-Standhaft im Unglück sein, Ehre erstreben,<br />
-Redegewandt sein und kundig der Weden:<br />
-Das ist der Edlen natürliches Leben!<br /> 
-:::: 
+:::: { .fs-xxs  }
+|
+|       Friedlich im Glück sein, trotzig in Fehden,
+|       Standhaft im Unglück sein, Ehre erstreben,
+|       Redegewandt sein und kundig der Weden:
+|       Das ist der Edlen natürliches Leben!
+|
+|
+::::
 
 Man weiß nicht, welche Teile der in
 verschiedenen Zeiten errichteten, nunmehr arg vernachlässigten und
@@ -532,7 +547,7 @@ diesen Fürstensitz einzunehmen trachteten.
 
 :::: {.wrap-100}
 ![Aus Sandstein gemeißelte Fenster der Burg Dschodpur; davor Wasserträger mit leeren und gefüllten Schläuchen.](Kurt_boeck_indien_nepal_141.jpg "Kurt_boeck_indien_nepal_141.jpg"){#b141}
-:::: 
+::::
 
 Straff und energisch waren und sind auch noch zum Teil die Gestalten der
 tatendurstigen Radschputen; konnten diese als echte, kraftvolle Männer
@@ -547,7 +562,7 @@ dieser Vermischung mit den Todfeinden tödlich gehaßt wurden.
 
 :::: {.float-left .w-50 }
 ![Marmorthron im Hofe der Burg Dschodpur.](Kurt_boeck_indien_nepal_142.jpg "Kurt_boeck_indien_nepal_142.jpg"){#b142}
-:::: 
+::::
 
 Neben diesem Dschodpur, das im Jahre 1839 die Engländer beim Erlöschen
 der bisher regierenden Fürstenlinie an sich rissen, glänzen in Indien
@@ -596,12 +611,12 @@ gewesen sein.
 
 :::: { .wrap-70 .break-before }
 ![Tor des Palastes in Amber.](Kurt_boeck_indien_nepal_143A.jpg "Kurt_boeck_indien_nepal_143A.jpg"){#b143A}
-:::: 
+::::
 
 :::: {.w-60 .float-left }
 ![Landstraße; hinten Schloß Amber, rechts ein Banyanbaum mit Luftwurzeln.^[^268]^
 ](Kurt_boeck_indien_nepal_143B.jpg "Kurt_boeck_indien_nepal_143B.jpg"){#b143B}
-:::: 
+::::
 
 Das Gerede, das jeder Fremdenführer dem anderen nachbetet, wonach dieser
 Fürst seine bisherige Hauptstadt Amber^[^269]^ im Jahre 1728 nur deshalb
@@ -640,14 +655,14 @@ Wasserspiegel hervorragende Schädelkrusten kaum von den im Teiche
 schwimmenden genarbten Baumstämmen zu unterscheiden sind.
 
 
-:::: wrap-100 
+:::: wrap-100
 ![Die Tauben auf dem Marktplatz in Dscheipur.](Kurt_boeck_indien_nepal_144A.jpg "Kurt_boeck_indien_nepal_144A.jpg"){#b144A}
-:::: 
+::::
 
 :::: {.wrap-100 .break-before }
 ![Jagd-Leopard und für die Jagd gezähmter Luchs <small>auf den Tscharpen-Bettstellen^[^272]^ ihrer Wärter, mit denen sie zusammen schlafen.</small>.
 ](Kurt_boeck_indien_nepal_144B.jpg "Kurt_boeck_indien_nepal_144B.jpg"){#b144B}
-:::: 
+::::
 
 Ein für die Eigenart der Radschputana sehr bezeichnendes Straßenbild
 bieten die hier und da bemerkbaren Jagdleoparden oder Tschitas^[^273]^ und
@@ -680,7 +695,7 @@ Schußweite entgegen.
 
 :::: wrap-70
 ![Parade-Elefant des Maharadschah von Dschodpur.](Kurt_boeck_indien_nepal_145.jpg "Kurt_boeck_indien_nepal_145.jpg"){#b145}
-:::: 
+::::
 
 :::
 
@@ -752,7 +767,7 @@ Schußweite entgegen.
 [^263]: [WS: *Fürstin Damajanti*: vergleiche
     [Damayanti](https://en.wikipedia.org/wiki/Damayanti)]{.footnote}
 
-[^264]: [WS: *Akbar*: vergleiche [Akbar](https://de.wikipedia.org/wiki/Akbar), regierte 1556--1605]{.footnote}
+[^264]: [WS: *Akbar*: vergleiche [Akbar](https://de.wikipedia.org/wiki/Akbar), regierte 1556---1605]{.footnote}
 
 [^265]: [WS: *Adschmir, Alwar, Udeipur*: vergleiche
     [Ajmer](https://de.wikipedia.org/wiki/Ajmer), [Alwar](https://de.wikipedia.org/wiki/Ajmer),
@@ -761,7 +776,7 @@ Schußweite entgegen.
 [^266]: [WS: vergleiche [Jantar Mantar](https://de.wikipedia.org/wiki/Jantar_Mantar)]{.footnote}
 
 [^267]: [WS: *Dschai Singh*: vergleiche [Jai Singh
-    II.](https://de.wikipedia.org/wiki/Jai_Singh_II.), regierte 1699--1743]{.footnote}
+    II.](https://de.wikipedia.org/wiki/Jai_Singh_II.), regierte 1699---1743]{.footnote}
 
 [^268]: [WS: *Banyanbaum*: vergleiche
     [Banyan-Feige](https://de.wikipedia.org/wiki/Banyan-Feige)]{.footnote}
@@ -777,5 +792,3 @@ Schußweite entgegen.
 
 [^273]: [WS: *Jagdleoparden oder Tschitas*: vergleiche
     [Gepard](https://de.wikipedia.org/wiki/Gepard)]{.footnote}
-
-

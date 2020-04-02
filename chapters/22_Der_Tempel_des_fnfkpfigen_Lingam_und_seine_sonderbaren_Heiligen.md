@@ -46,7 +46,7 @@ Brücken erreichte.
 :::: {.wrap-100 .break-before }
 ![`Der Tempel des fünfköpfigen Lingam zu Paschpattinath,` die heiligste Stätte für den brahminischen Teil der Bevölkerung von Nepal.
 ](Kurt_boeck_indien_nepal_280B.jpg "Kurt_boeck_indien_nepal_280B.jpg"){#b280B}
-:::: 
+::::
 
 
 -   ^[^558]^ Brücken über den Bagmati-Fluss.
@@ -346,11 +346,14 @@ die Gottheit allein zu empfinden. Von welcher Hoheit und dichterischen
 Kraft aber diese Mantras erfüllt sind, geht z. B. aus folgender Strophe
 hervor:
 
-:::: {.fs-xxs .wrap-100 .no-margin-top .margin-left-xl }
-<br />Wer ist der, dessen Größe dies Gebirg',<br />
-Das Meer verkündet mit dem fernen Strome,<br />
-Des Arme sind die Himmelsregionen,<br /> 
-Wer ist der Gott, dem wir mit Opfern dienen?<br /> 
+:::: { .fs-xxs  }
+|
+|       Wer ist der, dessen Größe dies Gebirg',
+|       Das Meer verkündet mit dem fernen Strome,
+|       Des Arme sind die Himmelsregionen,
+|       Wer ist der Gott, dem wir mit Opfern dienen?
+|
+|
 ::::
 
 :::: {.float-right .w-20 }
@@ -574,7 +577,7 @@ Dreizack erheben.
 [^569]: [WS: *Chicha-Pudscha*: vergleiche [Khicha Puja](https://en.wikipedia.org/wiki/List_of_festivals_in_Nepal#Khicha_Puja)]{.footnote}
 
 [^570]: [WS: *Dasahra- oder Durga-Pudscha*: vergleiche
-    [Dashahara](https://de.wikipedia.org/wiki/Dashahara) und 
+    [Dashahara](https://de.wikipedia.org/wiki/Dashahara) und
     [Durga Puja](https://de.wikipedia.org/wiki/Durga_Puja); zur tatsächlichen Rolle der Durga
     siehe [Durga](https://de.wikipedia.org/wiki/Durga)]{.footnote}
 

@@ -238,7 +238,7 @@ nicht einsieht, und das warnende Geschrei ihrer Treiber, das Geklingle,
 Getute und Tamtam-Gepauke der Priester, dazu die widerwärtige Mischung
 von Gerüchen nach mit Senföl eingeriebenen schwitzenden Menschen, nach
 rußenden Öllampen und den durchdringenden Düften von tropischen Blumen
-oder Rosenölwasser inmitten der märchenhaften Szenerie -- fürwahr, kein
+oder Rosenölwasser inmitten der märchenhaften Szenerie --- fürwahr, kein
 nach Sensationen dürstender Maler kann wildere Träume haben, als das
 Schauspiel, das hierin beständig und rasch wechselnden Bildern und noch
 dazu in geheimnisvollem Halbdunkel vorbeizieht!
@@ -514,45 +514,45 @@ gewöhnlich bereits durch früher eingetroffene Reisende besetzt findet.
 
 ### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
-[^105]: [WS: *Südwestmonsun*: vergleiche [Monsun](https://de.wikipedia.org/wiki/Monsun)]{.footnote} 
+[^105]: [WS: *Südwestmonsun*: vergleiche [Monsun](https://de.wikipedia.org/wiki/Monsun)]{.footnote}
 
 [^106]: [WS: *Nilgiri*: vergleiche
-    [Nilgiri-Berge](https://de.wikipedia.org/wiki/Nilgiri-Berge)]{.footnote} 
+    [Nilgiri-Berge](https://de.wikipedia.org/wiki/Nilgiri-Berge)]{.footnote}
 
 [^107]: [WS: *Malabar*: vergleiche
-    [Malabarküste](https://de.wikipedia.org/wiki/Malabarküste)]{.footnote} 
+    [Malabarküste](https://de.wikipedia.org/wiki/Malabarküste)]{.footnote}
 
 [^108]: [WS: *Koromandel*: vergleiche
-    [Koromandelküste](https://de.wikipedia.org/wiki/Koromandelküste)]{.footnote} 
+    [Koromandelküste](https://de.wikipedia.org/wiki/Koromandelküste)]{.footnote}
 
 [^109]: [WS: *Pikotta*: doppelarmiger Schöpfbrunnen, vgl. Dr. Georg
     Buschan: *Illustrierte Völkerkunde in zwei Bänden*, 1923, Seiten
-    496/526 [Digitalisat](https://archive.org/stream/p1illustriertevl02busc/p1illustriertevl02busc_djvu.txt)]{.footnote} 
+    496/526 [Digitalisat](https://archive.org/stream/p1illustriertevl02busc/p1illustriertevl02busc_djvu.txt)]{.footnote}
 
-[^110]: [WS: *Madura*: vergleiche [Madurai](https://de.wikipedia.org/wiki/Madurai)]{.footnote} 
+[^110]: [WS: *Madura*: vergleiche [Madurai](https://de.wikipedia.org/wiki/Madurai)]{.footnote}
 
 [^111]: [WS: *Aloe und Euphorbien*: Sukkulenten, vergleiche
     [Aloen](https://de.wikipedia.org/wiki/Aloen) und
-    [Wolfsmilch](https://de.wikipedia.org/wiki/Wolfsmilch)]{.footnote} 
+    [Wolfsmilch](https://de.wikipedia.org/wiki/Wolfsmilch)]{.footnote}
 
 [^112]: [WS: *mit Laterit makadamisiert*: vergleiche
     [Laterit](https://de.wikipedia.org/wiki/Laterit) und
-    [Makadam](https://de.wikipedia.org/wiki/Makadam)]{.footnote} 
+    [Makadam](https://de.wikipedia.org/wiki/Makadam)]{.footnote}
 
-[^113]: [WS: *Gopura*: vergleiche [Gopuram](https://de.wikipedia.org/wiki/Gopuram)]{.footnote} 
+[^113]: [WS: *Gopura*: vergleiche [Gopuram](https://de.wikipedia.org/wiki/Gopuram)]{.footnote}
 
 [^114]: [WS: *drawidisch, Drawide*: vergleiche
-    [Draviden](https://de.wikipedia.org/wiki/Draviden)]{.footnote} 
+    [Draviden](https://de.wikipedia.org/wiki/Draviden)]{.footnote}
 
 [^115]: [WS: *Schiwa/Mahadeo*: vergleiche
-    [Shiva](https://de.wikipedia.org/wiki/Shiva)/Mahadeva]{.footnote} 
+    [Shiva](https://de.wikipedia.org/wiki/Shiva)/Mahadeva]{.footnote}
 
-[^116]: [WS: *Mandapam*: vergleiche [Mandapa](https://de.wikipedia.org/wiki/Mandapa)]{.footnote} 
+[^116]: [WS: *Mandapam*: vergleiche [Mandapa](https://de.wikipedia.org/wiki/Mandapa)]{.footnote}
 
-[^117]: [WS: *Jali*: vergleiche [Yali (Mythologie)](https://de.wikipedia.org/wiki/Yali_(Mythologie))]{.footnote} 
+[^117]: [WS: *Jali*: vergleiche [Yali (Mythologie)](https://de.wikipedia.org/wiki/Yali_(Mythologie))]{.footnote}
 
 [^118]: [WS: *Sandarischwara*: Sandarishvara, andernorts rezipiert auch
-    als Göttin und Gemahlin des Shiva]{.footnote} 
+    als Göttin und Gemahlin des Shiva]{.footnote}
 
 [^119]: [WS: *Tirumal Najak*: [Thirumalai
     Nayak](https://en.wikipedia.org/wiki/Thirumalai_Nayak) regierte 1623-1659,
@@ -562,45 +562,45 @@ gewöhnlich bereits durch früher eingetroffene Reisende besetzt findet.
 [^120]: [WS: *Robert de Nobilibus*: vergleiche [Roberto de
     Nobili](https://de.wikipedia.org/wiki/Roberto_de_Nobili)]{.footnote}
 
-[^121]: [WS: *Saraswati*: vergleiche [Sarasvati](https://de.wikipedia.org/wiki/Sarasvati)]{.footnote} 
+[^121]: [WS: *Saraswati*: vergleiche [Sarasvati](https://de.wikipedia.org/wiki/Sarasvati)]{.footnote}
 
-[^122]: [WS: *Brahma*: vergleiche [Brahma](https://de.wikipedia.org/wiki/Brahma)]{.footnote} 
+[^122]: [WS: *Brahma*: vergleiche [Brahma](https://de.wikipedia.org/wiki/Brahma)]{.footnote}
 
 [^123]: [WS: *Tiruvalluvar*: vergleiche
-    [Tiruvalluvar](https://de.wikipedia.org/wiki/Tiruvalluvar)]{.footnote} 
+    [Tiruvalluvar](https://de.wikipedia.org/wiki/Tiruvalluvar)]{.footnote}
 
-[^124]: [WS: *Kural*: vergleiche [Tirukkural](https://de.wikipedia.org/wiki/Tirukkural)]{.footnote} 
+[^124]: [WS: *Kural*: vergleiche [Tirukkural](https://de.wikipedia.org/wiki/Tirukkural)]{.footnote}
 
 [^125]: [WS: *Tirumals Palast*: vergleiche [Thirumalai Nayakkar
-    Mahal](https://en.wikipedia.org/wiki/Thirumalai_Nayakkar_Mahal)]{.footnote} 
+    Mahal](https://en.wikipedia.org/wiki/Thirumalai_Nayakkar_Mahal)]{.footnote}
 
 [^126]: [WS: *Tirumals Sohn*: [Chokkanatha
     Nayak](https://en.wikipedia.org/wiki/Chokkanatha_Nayak) regierte 1662-1682
-    und war Enkel Thirumalais.]{.footnote} 
+    und war Enkel Thirumalais.]{.footnote}
 
 [^127]: [WS: *Tirisirapalli, Tritschinopolis*: vergleiche
-    [Tiruchirappalli](https://de.wikipedia.org/wiki/Tiruchirappalli)]{.footnote} 
+    [Tiruchirappalli](https://de.wikipedia.org/wiki/Tiruchirappalli)]{.footnote}
 
 [^128]: [WS: *Srirangam/Seringham*: vergleiche
-    [Srirangam](https://de.wikipedia.org/wiki/Srirangam)]{.footnote} 
+    [Srirangam](https://de.wikipedia.org/wiki/Srirangam)]{.footnote}
 
 [^129]: [WS: *Wischnu*: vergleiche [Vishnu](https://de.wikipedia.org/wiki/Vishnu)]{.footnote}
 
 [^130]: [WS: *Tilak, Nama*: vergleiche [Tilaka](https://de.wikipedia.org/wiki/Tilaka),
-    [Naamam](https://en.wikipedia.org/wiki/Naamam)]{.footnote} 
+    [Naamam](https://en.wikipedia.org/wiki/Naamam)]{.footnote}
 
 [^131]: [WS: *Wischnuiten, Schiwaiten*: vergleiche
     [Vishnuismus](https://de.wikipedia.org/wiki/Vishnuismus),
-    [Shivaismus](https://de.wikipedia.org/wiki/Shivaismus)]{.footnote} 
+    [Shivaismus](https://de.wikipedia.org/wiki/Shivaismus)]{.footnote}
 
 [^132]: [WS: *Ramavat-Sadhus*: vergleiche
     [Ramavats](https://en.wikipedia.org/wiki/Ramanandi_Sampradaya);
-    [Sadhu](https://de.wikipedia.org/wiki/Sadhu)]{.footnote} 
+    [Sadhu](https://de.wikipedia.org/wiki/Sadhu)]{.footnote}
 
 [^133]: [WS: *Jogis, Sanyasis, Bairagis, Agoris*: vergleiche
     [Yoga](https://de.wikipedia.org/wiki/Yoga); [Sannyasin](https://de.wikipedia.org/wiki/Yoga),
     [Bairagi Caste](https://en.wikipedia.org/wiki/Bairagi_Caste),
-    [Aghori](https://de.wikipedia.org/wiki/Aghori)]{.footnote} 
+    [Aghori](https://de.wikipedia.org/wiki/Aghori)]{.footnote}
 
 [^134]: [WS: *Dewa Dasi*: vergleiche [Devadasi](https://de.wikipedia.org/wiki/Devadasi)]{.footnote}
 
@@ -613,5 +613,3 @@ gewöhnlich bereits durch früher eingetroffene Reisende besetzt findet.
     Kultur](https://de.wikipedia.org/wiki/Thanjavur#Kunst_und_Kultur)]{.footnote}
 
 [^138]: [WS: *Bungalo*: vergleiche [Bungalow](https://de.wikipedia.org/wiki/Bungalow)]{.footnote}
-
-

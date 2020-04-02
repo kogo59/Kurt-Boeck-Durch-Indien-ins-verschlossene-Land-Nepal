@@ -2,7 +2,7 @@
 
 :::: wrap-100
 ![Die Haremsdamen auf dem Wege ins Jagdgebiet.](Kurt_boeck_indien_nepal_244A.jpg "Kurt_boeck_indien_nepal_244A.jpg"){#b244A}
-:::: 
+::::
 
 ::: { .justified }
 **M**it Sonnenaufgang marschierte mein Trupp weiter, der Paßhöhe
@@ -11,11 +11,11 @@ dem lärmenden Troß voraus, so daß ich unbemerkt beobachten konnte, wie
 der Wachtposten des Sperrforts abgelöst wurde. Hatten mir die tadellos
 klappenden Gewehrgriffe der Leute in der Nacht einen recht guten
 Eindruck beigebracht, so sah ich jetzt etwas, was jedem deutschen
-Feldwebel das Herz im Leibe herumdrehen mußte. 
+Feldwebel das Herz im Leibe herumdrehen mußte.
 
 :::: { .float-left .w-30 }
 ![Wachtposten.](Kurt_boeck_indien_nepal_244B.jpg "Kurt_boeck_indien_nepal_244B.jpg"){#b244B}
-:::: 
+::::
 
 Die Ablösung kam nämlich
 ganz gemütlich und ohne Waffen aus dem Wachtlokal herausgebummelt, trat
@@ -149,7 +149,7 @@ jedem Haushalt findet man aus Holz gedrehte Krüge mit diesem Elixir.
 
 :::: {.float-right .w-20 }
 ![Hacke der Feldbearbeiter in Nepal.<small>1/17</small>](Kurt_boeck_indien_nepal_247A.jpg "Kurt_boeck_indien_nepal_247A.jpg"){#b247A}
-:::: 
+::::
 
 Dieses Tal von Klein-Nepal, durch das bislang jeder der spärlichen
 europäischen Besucher Nepals seinen Weg nach der Landeshauptstadt zu
@@ -174,7 +174,7 @@ munter belebte.
 
 :::: {.float-right .w-30 }
 ![Holzkrug für Reiswein.<small>1/10</small>](Kurt_boeck_indien_nepal_247B.jpg "Kurt_boeck_indien_nepal_247B.jpg"){#b247B}
-:::: 
+::::
 
 In Marku, dem größten Ort des Tales, den ich fünf Stunden nach dem
 Verlassen der Sissagaripaßhöhe erreichte, pflegt ein reger Verkehr von
@@ -194,7 +194,7 @@ Maharadschah erleiden diese fürstlichen Gehälter deshalb oft plötzliche
 und beträchtliche Abzüge; ebenso erwähnenswert ist wohl auch, daß in
 Nepal ein Oberst drei Regimenter zu kommandieren pflegt. Die
 Dienstpflicht ist allgemein, und die Männer sind leidenschaftliche
-Soldaten, so daß Nepal jeden Augenblick 60--70 000 kriegstüchtige Leute
+Soldaten, so daß Nepal jeden Augenblick 60---70&nbsp;000 kriegstüchtige Leute
 zur Stelle haben kann. Das wissen die Engländer ebensowohl, wie sie die
 furchtbaren, natürlichen Hindernisse kennen, die es den Nepalern
 ermöglichen würden, ihre Unabhängigkeit zu bewahren, da diese sich im
@@ -203,7 +203,7 @@ Gebirgslandschaften des westlichen Nepal verkriechen könnten.
 
 :::: { .float-left .w-60 }
 ![Des Rätsels Lösung.](Kurt_boeck_indien_nepal_248A.jpg "Kurt_boeck_indien_nepal_248A.jpg"){#b248A}
-:::: 
+::::
 
 Die Straße steigt von Marku aus allmählich um etwa tausend Fuß, indem
 sie sich mit einem nach Norden gekrümmten Bogen in eine Talschlucht des
@@ -231,7 +231,7 @@ Landes!
 
 :::: {.float-right .w-60 }
 ![Der Harem des Maharadschah; bedeckte und verhängte Tragbahren.](Kurt_boeck_indien_nepal_249A.jpg "Kurt_boeck_indien_nepal_249A.jpg"){#b249A}
-:::: 
+::::
 
 Die zarten, lieblichen Wesen, die an mir vorbeigetragen wurden, konnten
 mich in meinem Versteck nicht gleich gewahren, und so vermochte ich mich
@@ -248,7 +248,7 @@ eine Prima Ballerina, deren Röckchen bis zum
 
 :::: {.float-left .w-60 }
 ![Links offener Tragstuhl,rechts verhüllte Tragbahre.](Kurt_boeck_indien_nepal_249B.jpg "Kurt_boeck_indien_nepal_249B.jpg"){#b249B}
-:::: 
+::::
 
 Fußboden verlängert sind, machen beim Niedersetzen der Damen tatsächlich
 den Eindruck von Schlagrahm oder Seifenschaum. Um die Freuden der Jagd
@@ -270,7 +270,7 @@ als die heiligsten Eide.
 
 :::: {.float-left .w-60 }
 ![Der Wächter des Haremszuges.](Kurt_boeck_indien_nepal_250.jpg "Kurt_boeck_indien_nepal_250.jpg"){#b250}
-:::: 
+::::
 
 Leider lenkte mein blitzender Kodakapparat^[^494]^ die Aufmerksamkeit der
 Haremsdamen und ihrer Eunuchenumgebung auf mein Versteck. Blitzschnell
@@ -467,7 +467,7 @@ reichem Maße zu lohnen versprach.
 
 :::: wrap-50
 ![Bergreise einer nepalischen Dame.](Kurt_boeck_indien_nepal_254.jpg "Kurt_boeck_indien_nepal_254.jpg"){#b254}
-:::: 
+::::
 
 :::
 
@@ -494,7 +494,7 @@ reichem Maße zu lohnen versprach.
 
 [^495]: [WS: *Oxtailragout*: vergleiche [Ochsenschwanz](https://de.wikipedia.org/wiki/Ochsenschwanz)[ragout](https://de.wikipedia.org/wiki/Ochsenschwanz)]{.footnote}
 
-[^496]: [WS: *Tschandragiri, Thankot*: vergleiche [Chandragiri (Kathmandu)](https://de.wikipedia.org/wiki/Chandragiri_(Kathmandu)), 
+[^496]: [WS: *Tschandragiri, Thankot*: vergleiche [Chandragiri (Kathmandu)](https://de.wikipedia.org/wiki/Chandragiri_(Kathmandu)),
 		[Thankot](https://en.wikipedia.org/wiki/Thankot)]{.footnote}
 
 [^497]: [WS: *Kukri*: vergleiche [Khukuri](https://de.wikipedia.org/wiki/Khukuri)]{.footnote}
@@ -503,4 +503,3 @@ reichem Maße zu lohnen versprach.
     [Dhaulagiri](https://de.wikipedia.org/wiki/Dhaulagiri)]{.footnote}
 
 [^499]: [WS: *Wischnumati*: vergleiche [Bisnumati River](https://en.wikipedia.org/wiki/Bisnumati_River), auch Bishnumati und Vishnumati]{.footnote}
-

@@ -302,7 +302,7 @@ scheint weniger bekannt zu sein, als man erwarten sollte.
     fallen lässt]{.footnote}
 
 [^596]: [WS: *Maler Seekatz in Gutzkows Königsleutnant*: vergleiche [Karl
-    Gutzkow](https://de.wikipedia.org/wiki/Karl_Gutzkow). *Der Königsleutnant*, 
+    Gutzkow](https://de.wikipedia.org/wiki/Karl_Gutzkow). *Der Königsleutnant*,
     [Dritter Aufzug, zweiter Auftritt.](http://gutenberg.spiegel.de/buch/-960/5)]{.footnote}
 
 [^597]: [WS: *Gerufene Geister*: vergleiche [Der Zauberlehrling](https://de.wikipedia.org/wiki/Der_Zauberlehrling).]{.footnote}
@@ -314,11 +314,8 @@ scheint weniger bekannt zu sein, als man erwarten sollte.
     *L'Asie Centrale* ist 1889 und nicht 1899 erschienen]{.footnote}
 
 [^600]: [WS: *Dr. Futterer, Dr. Holderer*: vergleiche [Karl Joseph Xaver Futterer](https://www.deutsche-biographie.de/sfz18123.html)( 1866–1906, NDB)
-    (1866--1906, NDB) und [JuliusHolderer](https://de.wikipedia.org/wiki/de:Julius_Holderer) (1866–1950)]{.footnote}
+    (1866---1906, NDB) und [Julius Holderer](https://de.wikipedia.org/wiki/de:Julius_Holderer) (1866–--1950)]{.footnote}
 
-[^601]: [WS: *kalmükischer Häuptling Uche Nuzunof*: vergleiche [Kalmücken](https://de.wikipedia.org/wiki/Kalmücken), 
+[^601]: [WS: *kalmükischer Häuptling Uche Nuzunof*: vergleiche [Kalmücken](https://de.wikipedia.org/wiki/Kalmücken),
 	[Ovché Narzounof](https://fr.wikipedia.org/wiki/Ovché_Narzounof) (fr, 1874-unbekannt,
     reiste um 1900-1902 durch Tibet, auch: *Ushe Narzunoff*, *Owsche Mutschkinowitsch Norsunow*)]{.footnote}
-
-
-

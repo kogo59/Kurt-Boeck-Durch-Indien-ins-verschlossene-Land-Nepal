@@ -32,8 +32,7 @@ Wie ein echter Orientale muß auch ich da sofort mit einer Gegenfrage
 antworten und erwidern: Welche Gegend Indiens meinen Sie, hochverehrter
 Fragesteller, mit diesem „dort“? Denken Sie an das Gebiet längs der
 breiten Schienenstränge zwischen den Großstädten, dem golddurstigen,
-pestverseuchten
-Bombay, dem siedendheißen Madras^[^72]^ und dem stolzen Kalkutta, oder
+pestverseuchten Bombay, dem siedendheißen Madras^[^72]^ und dem stolzen Kalkutta, oder
 haben Sie dabei menschenferne Schneegefilde des unwegsamen Himalaja oder
 die pagodenprangenden^[^73]^ Brahminenparadiese an der Malabarküste im
 Auge, wo der Europäer mit seinem weißen Sonnenhut, dem Sola Topi^[^74]^ aus
@@ -45,7 +44,7 @@ Theepflanzung irgend eines jüngeren, also erblosen Sprößlings einer
 englischen Adelsfamilie, bedarf wohl auch keiner Erwähnung.
 
 Vor allen Dingen aber, was verstehen Sie, sehr geehrter Herr
-Fragesteller, unter „Reisen --“? Vermutlich bequeme Vergnügungsfahrten,
+Fragesteller, unter „Reisen —“? Vermutlich bequeme Vergnügungsfahrten,
 wie sie Stangen und Cook^[^76]^ für Kommerzienräte und pensionierte
 Generäle vorsorglich zurechtmachen? Oder denken Sie dabei an die im
 heißen, erschlaffenden Indien noch mehr als in Europa aufreibenden,
@@ -99,7 +98,7 @@ Bambuskorbe, in dem die Kinder des Ärmsten schlummern. Er aber, der
 soeben noch seine letzten Kupferheller für irgend einen Hokuspokus aus
 der Hexenküche eines indischen Heilkünstlers vergeudet hat, um die
 Pestbeulen seiner dort hinten verscheidenden Frau zu beschwören, er wagt
-nicht, diese noch viel verderblichere Viper zu töten -- ehrerbietig
+nicht, diese noch viel verderblichere Viper zu töten --- ehrerbietig
 trägt er sie, weil in ihrem furchterweckenden Körper ja vielleicht die
 Seele eines längst verschiedenen Königs fortlebt, auf zwei Stecken vor
 seine Tür, unbekümmert um die Wiederkehr des schrecklichen Reptils.
@@ -114,7 +113,7 @@ natürlich der nicht ahnt, der nur in günstigster Jahreszeit, also in
 unseren Wintermonaten, mit einer jener fröhlichen Gesellschaftsreisen
 die auf dem Programm stehenden Sehenswürdigkeiten in Augenschein nimmt.
 Diese Art von „Globe-Trotters“ fährt stets die ewig gleiche Bahnlinie:
-Bombay--Ahmedabad--Dscheipur^[^81]^--Delhi--Agra--Kalkutta, wozu dann noch
+Bombay---Ahmedabad---Dscheipur^[^81]^---Delhi---Agra---Kalkutta, wozu dann noch
 ein ganze drei Tage währender Eisenbahnausflug nach dem lustigen
 Luftkurort Dardschiling in den äußersten Vorhügeln des Himalaja kommt,
 den dann mancher von diesen Reisenden seine „Reise in den Himalaja“
@@ -122,8 +121,8 @@ nennt.
 
 Die genannte Linie ist eine der Hauptbahnstrecken, in deren Stationen
 der Reisende jederzeit alles finden kann, womit ihn Europa verwöhnt hat.
-Die Restaurationen der Wartesäle sind -- oder waren wenigstens zu meinen
-Reisezeiten -- an die deutsche Firma Kellner & Comp.^[^82]^ verpachtet,
+Die Restaurationen der Wartesäle sind --- oder waren wenigstens zu meinen
+Reisezeiten --- an die deutsche Firma Kellner & Comp.^[^82]^ verpachtet,
 und diese kann sicherlich nichts dafür, wenn ihre eingeborenen Kellner
 so manchen Geniestreich begehen und gelegentlich Petroleum in die
 Ölfläschchen füllen oder mit den Mostrichtöpfchen^[^83]^ nicht umzugehen
@@ -133,7 +132,7 @@ Ein Europäer darf in Indien, solange er als Gentleman auftreten will,
 nur die erste Wagenklasse benutzen. Den Angestellten großer
 Handelshäuser erwachsen aus dieser Anstandspflicht für den Weißen in
 Indien nicht geringe
-Ausgaben -- wieviel könnte sonst von den oft fürstlichen Gehältern
+Ausgaben --- wieviel könnte sonst von den oft fürstlichen Gehältern
 erspart werden! Daß der Handlungsgehilfe einer vornehmen Firma in der
 Lage ist, mit eigenem Wagen, mit betreßtem Diener auf dem Kutscherbock
 und mindestens einem Sais, d. h. Pferdejungen, hintenauf, vor seinem
@@ -144,7 +143,7 @@ dieses auf Schritt und Tritt von willigen scheuen Sklaven Bedientwerden,
 und schwer nur kann er sich später wieder an die einfacheren Gebräuche
 der Heimat gewöhnen. Auch das ist eine der merkwürdigen Seiten Indiens:
 der dort lebende Europäer, besonders der sentimentale Deutsche, sehnt
-sich Tag für Tag heim in sein kühleres Vaterland -- hat er aber der von
+sich Tag für Tag heim in sein kühleres Vaterland --- hat er aber der von
 ihm so oft verwünschten heißen Heimat der Hindus den Rücken gekehrt,
 umbrausen ihn daheim wieder Winterstürme und beißt ihm Schneegestöber in
 die Augen, dann zieht es ihn magnetisch zurück! Ihm winkt im Traum der
@@ -180,7 +179,7 @@ Badewallfahrten nach heiligen Tempelteichen zu machen. So groß ist der
 Verkehr in dieser letzten Klasse, daß sein Ertrag, trotz der Billigkeit
 der Fahrkarten, die Einkünfte aus den oberen Klassen bei weitem
 übertrifft.
-Wir steigen ein; -- ah, wie geräumig, wie luftig sind diese Wagen mit
+Wir steigen ein; --- ah, wie geräumig, wie luftig sind diese Wagen mit
 ihren breiten Längssofas, unter denen sich unglaublich viel Handgepäck
 unterbringen läßt! Auf einer meiner Indienreisen stieg ich einmal mit
 wohlgezählten 35 Handgepäckstücken in einen bereits von zwei ähnlich
@@ -220,7 +219,7 @@ Bahnhöfen. Vor jeder Abfahrt aus einer Station erscheint deshalb ein
 Diener, um Roheis anzubieten, das dann zur besseren Kühlung des Wagens
 in Wandkästen gelegt wird. Auch die Lüftung der Wagen ist so vollkommen
 wie möglich; man kann die Fenster öffnen oder durch einen Vorhang, eine
-Holzjalousie, durch klares oder -- weil in Indien fast jeder Europäer
+Holzjalousie, durch klares oder --- weil in Indien fast jeder Europäer
 augenleidend wird --- ganz nach Wahl durch blaues, grünes oder graues
 Glas verschließen. Der Waschraum bietet ausreichenden Platz zu einem
 gründlichen Bade, und die Federn der Wagen sind bester Art. Man rollt
@@ -535,30 +534,30 @@ abseits der Eisenbahnen.
 
 [^72]: [WS: *Bombay, Madras*: vergleiche [Mumbai](https://de.wikipedia.org/wiki/Mumbai),
     [Chennai](https://de.wikipedia.org/wiki/Chennai)]{.footnote}
-    
+
 [^73]: [WS: *Pagode*: eigentlich wie in [Kapitel 3](#Kapitel_drei) die Bezeichnung für
     buddhistische Bauten, siehe [Pagode](https://de.wikipedia.org/wiki/Pagode); hier
     ebenso wie auf S. 93ff abweichend für hinduistische Bauten verwendet]{.footnote}
-    
+
 [^74]: [WS: *Sola Topi*: vergleiche [Tropenhelm](https://de.wikipedia.org/wiki/Tropenhelm)]{.footnote}
 
 [^75]: [WS: *Dardschiling*: vergleiche
     [Darjeeling](https://de.wikipedia.org/wiki/Darjeeling_(Stadt))]{.footnote}
-    
+
 [^76]: [WS: *Stangen und Cook*: vergleiche [Carl
     Stangen](https://de.wikipedia.org/wiki/Carl_Stangen) und [Thomas
     Cook](https://de.wikipedia.org/wiki/Thomas_Cook)]{.footnote}
-    
+
 [^77]: [WS: *Mofussil*: vergleiche
      [mofussil](https://en.wiktionary.org/wiki/mofussil) (Urdu, in etwa: rural/am
     fernen Rand der Ballungsgebiete)]{.footnote}
-    
+
 [^78]: [WS: *Radschah*: vergleiche [Raja](https://de.wikipedia.org/wiki/Raja)]{.footnote}
 
 [^79]: [WS: *Black City*: seit Mitte des 19. Jahrhunderts die Wohnviertel
     der einheimischen Bevölkerung Kalkuttas, im Gegensatz zur *White
     City*]{.footnote}
-    
+
 [^80]: [WS: *Nabob*: vergleiche [Nawab](https://de.wikipedia.org/wiki/Nawab)]{.footnote}
 
 [^81]: [WS: *Dscheipur*: vergleiche [Jaipur](https://de.wikipedia.org/wiki/Jaipur)]{.footnote}
@@ -569,22 +568,22 @@ abseits der Eisenbahnen.
 
 [^84]: [WS: *Riesenheimchen*: Genaue Grillenspezies konnte noch nicht
     identifiziert werden.]{.footnote}
-    
+
 [^85]: [WS: *Panka-Fächer*: vergleiche [Pankha](https://de.wikipedia.org/wiki/Pankha)]{.footnote}
 
-[^86]: [WS: *Kuli*: vergleiche [Kuli](https://de.wikipedia.org/wiki/Kuli_(Tagelöhner))]{.footnote} 
+[^86]: [WS: *Kuli*: vergleiche [Kuli](https://de.wikipedia.org/wiki/Kuli_(Tagelöhner))]{.footnote}
 
 [^87]: [WS: *Brustkrankheit*: vergleiche
     [Tuberkulose](https://de.wikipedia.org/wiki/Tuberkulose) und
     [Luftkur](https://de.wikipedia.org/wiki/Luftkur)]{.footnote}
-    
+
 [^88]: [WS: *Knock-about*: Knautschhut]{.footnote}
 
 [^89]: [WS: *Sahib*: vergleiche [Sāhib](https://de.wikipedia.org/wiki/Sāhib)]{.footnote}
 
 [^90]: [WS: *Smoking cap*: vergleiche [Smoking
     cap](https://en.wikipedia.org/wiki/Smoking_cap)]{.footnote}
-    
+
 [^91]: [WS: *Anna*: vergleiche [Anna](https://de.wikipedia.org/wiki/Anna_(Münznominal))]{.footnote}
 
 [^92]: [WS: *Birmazigarre*: vergleiche [Seite 41](ch004.xhtml#b041)]{.footnote}
@@ -597,26 +596,25 @@ abseits der Eisenbahnen.
 
 [^96]: [WS: *Palki*: vergleiche
     [Palanquin](https://en.wikipedia.org/wiki/Litter_(vehicle)#Indian_Subcontinent) (en)]{.footnote}
-    
+
 [^97]: [WS: *Baroda*: vergleiche [Vadodara](https://de.wikipedia.org/wiki/Vadodara)]{.footnote}
 
 [^98]: [WS: *Hinter-Indien*: vergleiche
     [Hinterindien](https://de.wikipedia.org/wiki/Hinterindien)]{.footnote}
-    
+
 [^99]: [WS: *Brahmaputra*: vergleiche
     [Brahmaputra](https://de.wikipedia.org/wiki/Brahmaputra)]{.footnote}
-    
+
 [^100]: [WS: *Rekla, Ekka, Gari*: Einachser-Modelle: vergleiche [Bild eines Rekla](https://commons.wikimedia.org/wiki/File:Rekla_Race,_Avaniyapuram,_Madurai.jpg),
     [Ekka](https://en.wikipedia.org/wiki/Ekka_(carriage)),
     [Gari (vehicle)](https://en.wikipedia.org/wiki/Gari_(vehicle))]{.footnote}
-    
+
 [^101]: [WS: *Jampan*: eigentlich *Jhāmpān*]{.footnote}
 
 [^102]: [WS: *Salti-Kanoe*: [Einbaum](https://de.wikipedia.org/wiki/Einbaum)-Kanus aus dem
     [Salbaum](https://de.wikipedia.org/wiki/Salbaum)]{.footnote}
-    
+
 [^103]: [WS: *Sarnai*: keine weitere Referenz zur Identifikation gefunden]{.footnote}
 
 [^104]: [WS: *Pusch-Pusch*: Push-Push, leichte Kutschen, angeschoben von
     einem oder zwei Kulis]{.footnote}
-    

@@ -84,7 +84,7 @@ die lautet:
 
 :::: { .float-right .w-40 }
 ![Pungi mit silberner Schale zum Reissammeln.](Kurt_boeck_indien_nepal_038A.jpg "Kurt_boeck_indien_nepal_038A.jpg"){#b038A}
-:::: 
+::::
 
 „Man soll allen Menschen, wer sie auch seien, mit Duldung, Sanftmut und
 brüderlicher Liebe begegnen, ebenso soll man den Geschöpfen jeglicher
@@ -92,7 +92,7 @@ Art mit Milde und Barmherzigkeit entgegenkommen.“
 
 :::: { .float-left .w-60 }
 ![Junge Pungis, die mit gefüllten Reisschalen zum Kloster heimkehren.](Kurt_boeck_indien_nepal_038B.jpg "Kurt_boeck_indien_nepal_038B.jpg"){#b038B}
-:::: 
+::::
 
 Diesem Buddhisten-Apostel Oberst Olkott, den ich bereits früher
 vergeblich in seinem Wohnsitz Adija^[^47]^ bei Madras aufgesucht hatte,
@@ -123,7 +123,7 @@ zurück.
 
 :::: { .float-right .w-40 }
 ![Frau aus Katschin.](Kurt_boeck_indien_nepal_039A.jpg "Kurt_boeck_indien_nepal_039A.jpg"){#b039A}
-:::: 
+::::
 
 Nun war endlich der festliche Tag erschienen, wo das hochragende Symbol
 der Fürstenwürde für immer über der äußersten, höchsten Dagobaspitze
@@ -138,7 +138,7 @@ sämtlichen indischen Edelsteinarten hergestellt wurde.
 
 :::: { .float-left .w-30 }
 ![Vornehmes Mädchen aus dem Sikhim-Himalaja.^[^50]^](Kurt_boeck_indien_nepal_039B.jpg "Kurt_boeck_indien_nepal_039B.jpg"){#b039B}
-:::: 
+::::
 
 Aus allen, selbst den entlegensten Teilen Hinter-Indiens, aus den Laos-
 und Schan-Staaten^[^51]^, ja sogar aus Siam und den östlichen
@@ -153,11 +153,11 @@ Figuren von erstaunlicher Eigenart auf.
 
 :::: { .break-before .w-20 .float-left .margin-left-xxl .margin-right-xxl }
 ![Bunong-Mädchen.](Kurt_boeck_indien_nepal_040A.jpg "Kurt_boeck_indien_nepal_040A.jpg"){#b040A}
-:::: 
+::::
 
 :::: { .w-20 .float-left .margin-left-xxl .margin-right-xxl }
 ![Bunong-Frauen.](Kurt_boeck_indien_nepal_040B.jpg "Kurt_boeck_indien_nepal_040B.jpg"){#b040B}
-:::: 
+::::
 
 Unterscheiden sich schon die Birmanen, besonders die weiblichen, auf den
 ersten Blick von den Hindus und den Hindufrauen in Vorder-Indien, so
@@ -178,11 +178,11 @@ Meer brennender Wachskerzen erhellt.
 
 :::: { .w-20 .float-right .margin-left-xxl .margin-right-xxl }
 ![Hut der Schan-Männer.](Kurt_boeck_indien_nepal_040D.jpg "Kurt_boeck_indien_nepal_040D.jpg"){#b040D}
-:::: 
+::::
 
 :::: { .w-20 .float-right  .margin-left-xxl .margin-right-xxl }
 ![Schan-Frau mit Riesenhut.](Kurt_boeck_indien_nepal_040C.jpg "Kurt_boeck_indien_nepal_040C.jpg"){#b040C}
-:::: 
+::::
 
 Jede von diesen seltsamen Gestalten trug außer den Pantoffeln ein
 brennendes kleines Licht in der Hand, das dann vor den Buddhabildnissen
@@ -216,7 +216,7 @@ konnte ich bei dieser Gelegenheit die unterhaltendsten Studien machen.
 
 :::: { .float-right .w-60 }
 ![Garkoch, eine Zigarette rauchend.](Kurt_boeck_indien_nepal_041.jpg "Kurt_boeck_indien_nepal_041.jpg"){#b041}
-:::: 
+::::
 
 Von den halbwilden Indo-Chinesen stechen die sauberen einheimischen
 Birmanen auffällig ab, zumal an solchem Tage, wo sie ihre schönsten
@@ -239,11 +239,11 @@ Wirklichkeit des vermeintlichen Zauberbildes gemahnt.
 
 :::: {.float-left .w-50 }
 ![Gießen der Wachskerzen.](Kurt_boeck_indien_nepal_042A.jpg "Kurt_boeck_indien_nepal_042A.jpg"){#b042A}
-:::: 
+::::
 
 :::: { .float-right .w-60 }
 ![Tänzer mit Dämonen-Masken.](Kurt_boeck_indien_nepal_042B.jpg "Kurt_boeck_indien_nepal_042B.jpg"){#b042B}
-:::: 
+::::
 
 Ähnlich wie vor Wallfahrtskirchen in europäischen Ländern, und nicht
 etwa nur in Kevelaar^[^56]^, Kerzen und „viel wächserne Füß' und Händ'“
@@ -284,7 +284,7 @@ Ansichten zu bekehren.
 :::: { .float-right .wrap-40 }
 ![Durch einen Sonnenschirme geschützte Wasserkrüge; ein durstiger Knabe
 führt eben den Schöpflöffel zum Munde.](Kurt_boeck_indien_nepal_043.jpg "Kurt_boeck_indien_nepal_043.jpg"){#b043}
-:::: 
+::::
 
 Angesichts der erdrückend mannigfaltigen Augenweide überkam mich auf dem
 Festplatz ein förmlicher Sehrausch, denn selbst die unbedeutendsten
@@ -327,7 +327,7 @@ obgleich sie nicht übermäßig laut sind.
 
 :::: { .wrap-100 }
 ![Schiefe Ebene zum Hinaufschaffen des Thi auf die Spitze der Pagode. Die Schuhe werden auf dem Festplatz in der Hand getragen.](Kurt_boeck_indien_nepal_044.jpg "Kurt_boeck_indien_nepal_044.jpg"){#b044}
-:::: 
+::::
 
 Zu den auffallendsten Figuren eines birmanischen Festplatzes gehören
 auch die von der Einfalt der Landleute lebenden Wahrsager. Mit
@@ -358,7 +358,7 @@ daran entdeckt haben würde.
 
 :::: { .float-right .w-30 }
 ![Ein Neugieriger guckt durch den photographischen Apparat des Verfassers.](Kurt_boeck_indien_nepal_045.jpg "Kurt_boeck_indien_nepal_045.jpg"){#b045}
-:::: 
+::::
 
 Es war fast unmöglich, auf dem belebten Platze einen geeigneten Standort
 zur Aufnahme des seltsamen Gerüstes zu finden; ich mußte lachen, als
@@ -381,7 +381,7 @@ Turmspitzenbesteigung anschließen zu dürfen.
 :::: { .wrap-100 .break-before }
 ![`Prinz Ginavaravansa` von Siam und der greise `Oberst Olkott;` hinten links sitzen die Frauen der vorn kauernden Tempelvorsteher, von denen eine raucht.
 ](Kurt_boeck_indien_nepal_046.jpg "Kurt_boeck_indien_nepal_046.jpg"){#b046}
-:::: 
+::::
 
 Mein Wunsch schien nicht viel Gegenliebe zu finden. So weitgehend auch
 die Toleranz gegen Andersgläubige sein mag, die der Buddhismus lehrt, so
@@ -408,11 +408,11 @@ Gipfel der Pagode etwas näher an.
 
 :::: { .wrap-100 }
 ![`Ein Abgesandter des Dalai-Lama` zwischen den Lamas des Buddhistenklosters zu Pemiontschi in Sikhim.](Kurt_boeck_indien_nepal_047A.jpg "Kurt_boeck_indien_nepal_047A.jpg"){#b047A}
-:::: 
+::::
 
 :::: { .float-right .w-40 }
 ![Trompeter, Musikanten und Sänger auf der Plattform des Gerüstes.](Kurt_boeck_indien_nepal_047B.jpg "Kurt_boeck_indien_nepal_047B.jpg"){#b047B}
-:::: 
+::::
 
 Für den barfuß gehenden Prinzen von Siam und für die Kletterfüße der
 birmanischen Zimmerleute, in deren braune Schenkel nach landesüblicher
@@ -435,7 +435,7 @@ ein paar junge Zimmergesellen meine Apparatenkoffer nachtrugen.
 :::: { .float-left .w-60 }
 ![`Niederblick von der Plattform des Gerüstes auf den Festplatz`; der mit vier kleinen Sonnenschirmen geschmückte Thi befindet sich noch an dem unteren Ende der schiefen Ebene.
 ](Kurt_boeck_indien_nepal_048.jpg "Kurt_boeck_indien_nepal_048.jpg"){#b048}
-:::: 
+::::
 
 Schon auf halber Höhe holte ich den um den Prinzen von Siam gescharten
 Trupp ein. Angesichts des stetig zunehmenden lebhaften Schwankens des
@@ -464,7 +464,7 @@ Umgebung Mandales satt zu trinken bemühten.
 :::: { .wrap-100 .break-before }
 ![Der mit vier kleinen Sonnenschirmen geschmückte Thi nähert sich auf der schiefen Ebene der Pagodenspitze.
 ](Kurt_boeck_indien_nepal_049A.jpg "Kurt_boeck_indien_nepal_049A.jpg"){#b049A}
-:::: 
+::::
 
 Es wurde mir nicht leicht, meinen dreibeinigen Apparat festzustellen und
 damit brauchbare Photographien aufzunehmen, denn das ganze leichte
@@ -476,7 +476,7 @@ seinem künftigen Standplatze rückte.
 
 :::: { .float-right .w-40 }
 ![Der unterste Ring des Thi wird auf der Pagodenspitze befestigt.](Kurt_boeck_indien_nepal_049B.jpg "Kurt_boeck_indien_nepal_049B.jpg"){#b049B}
-:::: 
+::::
 
 An den sechs ersten der sieben Festtage war der Thi nur um ein winziges
 Teilchen der ganzen Strecke emporgezogen worden, und da ich das Glück
@@ -508,11 +508,11 @@ durch einen Opiumrausch unempfindlich gegen die Nadelstiche machen.
 
 :::: {.break-before .wrap-100 }
 ![Links Figur eines ruhenden, rechts die eines sitzenden Buddha.](Kurt_boeck_indien_nepal_050A.jpg "Kurt_boeck_indien_nepal_050A.jpg"){#b050A}
-:::: 
+::::
 
 :::: {.float-left .wrap-40 }
 ![Birmanin, mit einer Zigarette im Munde, schlägt mit einem Hirschgeweih an die Opferglocke.](Kurt_boeck_indien_nepal_050B.jpg "Kurt_boeck_indien_nepal_050B.jpg"){#b050B}
-:::: 
+::::
 
 Ich muß es mir versagen, hier ausführlicher von diesem seltsamen Feste
 zu sprechen, von diesen aus weiter Ferne gekommenen Pilgern, die
@@ -528,7 +528,7 @@ buddhistischer Geistesbildung entstanden sind.
 
 :::: {.break-before .wrap-100 }
 ![Das „Goldene Kloster der Königin“ in Mandale.](Kurt_boeck_indien_nepal_050C.jpg "Kurt_boeck_indien_nepal_050C.jpg"){#b050C}
-:::: 
+::::
 
 Das kostbarste Überbleibsel jener Zeit, wo birmanische Könige in Mandale
 regierten, ist unstreitig das seinen Namen buchstäblich verdienende
@@ -547,7 +547,7 @@ nüchternes Schwarz.
 
 :::: { .float-right .w-40 }
 ![`Der Königspalast in Mandale`; davor der Verfasser, der ein Stück Zuckerrohr kauft.](Kurt_boeck_indien_nepal_051.jpg "Kurt_boeck_indien_nepal_051.jpg"){#b051}
-:::: 
+::::
 
 Lange konnten sich freilich die Könige von Birma ihrer Residenz Mandale
 nicht erfreuen, denn nachdem König Mindummin^[^60]^ den früheren
@@ -574,7 +574,7 @@ einsperren ließ.
 
 :::: { .float-left .w-60 }
 ![`Schwemodo-Pagode;` der obere Teil ist mit Blattgold überzogen.](Kurt_boeck_indien_nepal_052.jpg "Kurt_boeck_indien_nepal_052.jpg"){#b052}
-:::: 
+::::
 
 Aus weit älterer Zeit als Mandale, ja sogar aus den Anfängen des
 geschichtlichen Ober-Birma, d. h. aus dem sechsten Jahrhundert, stammt
@@ -619,7 +619,7 @@ Seelenheils seiner Nachbarn - eine neue Dagoba errichten läßt.
 
 :::: { .float-right .w-50 }
 ![Eingang in die Schwe Dagon-Pagode in Rangun.](Kurt_boeck_indien_nepal_053A.jpg "Kurt_boeck_indien_nepal_053A.jpg"){#b053A}
-:::: 
+::::
 
 Doch damit genug von dieser Abschweifung nach Birma, dem Lande der
 kindlichsten Kinder, der lebenslustigsten, faulsten Männer und der
@@ -629,7 +629,7 @@ Abschiedsgruß wegzuschlüpfen.
 
 :::: { .float-left .w-40 }
 ![Junge birmanische Frauen.](Kurt_boeck_indien_nepal_053B.jpg "Kurt_boeck_indien_nepal_053B.jpg"){#b053B}
-:::: 
+::::
 
 Als ich am ersten Tage meines Aufenthaltes in Birma in das Kontor des
 großen deutschen Reisausfuhrgeschäftes Zaretzky, Bock & Comp.^[^69]^
@@ -674,7 +674,7 @@ meiner merkwürdigsten dort verlebten Tage beschließe.
 
 :::: wrap-40
 ![Haartracht der Schan-Männer.](Kurt_boeck_indien_nepal_054.jpg "Kurt_boeck_indien_nepal_054.jpg"){#b054}
-:::: 
+::::
 :::
 
 ****
@@ -682,31 +682,31 @@ meiner merkwürdigsten dort verlebten Tage beschließe.
 ### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^38]: [WS: *Prinz Ginavaravansa von Siam*: vergleiche Prinz
-    [Prisdang](https://de.wikipedia.org/wiki/Prisdang) von Siam (1851--1935), Mönchsname
+    [Prisdang](https://de.wikipedia.org/wiki/Prisdang) von Siam (1851---1935), Mönchsname
     Jinavaravamsa]{.footnote}
-    
+
 [^39]: [WS: *Birma*: vergleiche [Myanmar](https://de.wikipedia.org/wiki/Myanmar)]{.footnote}
 
 [^40]: [WS: *Frau Blawatzky*: vergleiche [Helena Petrovna
-    Blavatsky](https://de.wikipedia.org/wiki/Helena_Petrovna_Blavatsky) (1831--1893)]{.footnote}
-    
+    Blavatsky](https://de.wikipedia.org/wiki/Helena_Petrovna_Blavatsky) (1831---1893)]{.footnote}
+
 [^41]: [WS: *Oberst Olkott*: vergleiche Colonel [Henry Steel
-    Olcott](https://de.wikipedia.org/wiki/Henry_Steel_Olcott) (1832--1907)]{.footnote}
-    
+    Olcott](https://de.wikipedia.org/wiki/Henry_Steel_Olcott) (1832---1907)]{.footnote}
+
 [^42]: [WS: *Fürst Uchtomsky*: vergleiche Prinz [Epser
-    Uchtomski](https://en.wikipedia.org/wiki/Esper_Ukhtomsky) (1861--1921)]{.footnote}
-    
+    Uchtomski](https://en.wikipedia.org/wiki/Esper_Ukhtomsky) (1861---1921)]{.footnote}
+
 [^43]: [WS: *Professor Grünwedel*: vergleiche [Albert
-    Grünwedel](https://de.wikipedia.org/wiki/Albert_Grünwedel) (1856--1935)]{.footnote}
-    
+    Grünwedel](https://de.wikipedia.org/wiki/Albert_Grünwedel) (1856---1935)]{.footnote}
+
 [^44]: [WS: *König Asoka*: vergleiche [Ashoka](https://de.wikipedia.org/wiki/Ashoka) (304
     bis 232 v. Chr.)]{.footnote}
-    
+
 [^45]: [WS: *Buddha Gaja*: vergleiche [Bodhgaya](https://de.wikipedia.org/wiki/Bodhgaya)]{.footnote}
 
 [^46]: [WS: *Dalai Lama*: vergleiche [Thubten
-    Gyatsho](https://de.wikipedia.org/wiki/Thubten_Gyatsho) (1876--1933), 13. Dalai Lama]{.footnote}
-    
+    Gyatsho](https://de.wikipedia.org/wiki/Thubten_Gyatsho) (1876---1933), 13. Dalai Lama]{.footnote}
+
 [^47]: [WS: *Adija*: vergleiche [Adyar](https://de.wikipedia.org/wiki/Adyar)]{.footnote}
 
 [^48]: [WS: *Mandale*: vergleiche [Mandalay](https://de.wikipedia.org/wiki/Mandalay)]{.footnote}
@@ -720,10 +720,10 @@ meiner merkwürdigsten dort verlebten Tage beschließe.
 [^52]: [WS: *Katschin*: vergleiche
     [Kachin-Staat](https://de.wikipedia.org/wiki/Kachin-Staat) (zum Territorium) sowie
     [Jingpo](https://de.wikipedia.org/wiki/Jingpo) (zum Volk)]{.footnote}
-    
+
 [^53]: [WS: *Bunong*: vergleiche [Pnong
     people](https://en.wikipedia.org/wiki/Pnong_people) (en)]{.footnote}
-    
+
 [^54]: [WS: *Chignon*: vergleiche [Haarknoten](https://de.wikipedia.org/wiki/Haarknoten)]{.footnote}
 
 [^55]: [WS: *Mot*: Ethnie/Volksgruppe, konnte noch nicht identifiziert werden]{.footnote}
@@ -732,7 +732,7 @@ meiner merkwürdigsten dort verlebten Tage beschließe.
 
 [^57]: [WS: *Nat*: vergleiche [Nat](https://de.wikipedia.org/wiki/Nat_(Geist))
     (birmanisches Geistwesen)]{.footnote}
-    
+
 [^58]: [WS: *Ngapi*: vergleiche [Ngapi](https://en.wikipedia.org/wiki/Ngapi) (en)]{.footnote}
 
 [^59]: [WS: *Kuk-Swe*: vergleiche [Khauk swè thoke](https://en.wikipedia.org/wiki/Khauk_swè_thoke) (en)]{.footnote}
@@ -743,7 +743,7 @@ meiner merkwürdigsten dort verlebten Tage beschließe.
 
 [^62]: [WS: *Unter-Birma*: vergleiche [Lower
     Burma](https://en.wikipedia.org/wiki/Lower_Burma) (en)]{.footnote}
-    
+
 [^63]: [WS: *Dakoits*: vergleiche [Dacoity](https://en.wikipedia.org/wiki/Dacoity) (en)]{.footnote}
 
 [^64]: [WS: *Mung Gung Gi*: Eigenname, konnte noch nicht identifiziert werden]{.footnote}
@@ -752,19 +752,18 @@ meiner merkwürdigsten dort verlebten Tage beschließe.
 
 [^66]: [WS: *Schwemodo-Pagode*: vergleiche [Shwemawdaw
     Pagoda](https://en.wikipedia.org/wiki/Shwemawdaw_Pagoda) (en)]{.footnote}
-    
+
 [^67]: [WS: *Schwe Dagon-Pagode*: vergleiche
     [Shwedagon](https://de.wikipedia.org/wiki/Shwedagon)]{.footnote}
-    
+
 [^68]: [WS: *Leogryph*: vergleiche [Yali
     (Mythologie)](https://de.wikipedia.org/wiki/Yali_(Mythologie))]{.footnote}
-    
+
 [^69]: [WS: *Zaretzky, Bock & Comp.*: letzte auffindbare Presseerwähnung
     dieser Gesellschaft stammt von 1929]{.footnote}
-    
+
 [^70]: [WS: *Deutscher Klub in Rangun*: bestand von 1867 bis 1914. Seit
     1917 von einer Kirchengemeinde genutzt. Vgl. Hans-Bernd Zöllner:
     „Birma zwischen Unabhängigkeit zuerst - Unabhängigkeit zuletzt“, S. 202. [Digitalisat](https://books.google.de/books?id=TS5660FRYDgC)]{.footnote}
-    
-[^71]: [WS: *Kristiania*: vergleiche [Oslo](https://de.wikipedia.org/wiki/Oslo)]{.footnote}
 
+[^71]: [WS: *Kristiania*: vergleiche [Oslo](https://de.wikipedia.org/wiki/Oslo)]{.footnote}

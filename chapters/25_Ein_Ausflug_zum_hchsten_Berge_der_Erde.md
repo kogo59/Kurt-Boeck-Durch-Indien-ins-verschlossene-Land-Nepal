@@ -445,7 +445,7 @@ das mir bekannte Wort Parhar, das Berg bedeutet, vielleicht deutlicher
 herausgehört habe als es gesprochen wurde. Die Hieroglyphen des
 Schreibers harren aber noch ihrer Enträtselung, da alle von mir bisher
 angerufenen Linguistenautoritäten erst wenige dieser Charaktere
-entziffern konnten. --
+entziffern konnten. ---
 Ich konnte dieses Werk, das keinerlei Ansprüche auf Vollständigkeit
 erhebt, wohl kaum mit einem großartigeren Gegenstande beenden, als mit
 der Wiedergabe der mir zu teil gewordenen Eindrücke des gewaltigsten
@@ -514,20 +514,23 @@ zu bekämpfen, was die unserem Volke in die Wiege gelegten Gaben
 vergiften und verkümmern kann! Wohl dem Deutschen, der frei und offen
 mit dem Helden in Grabbes „Don Juan und Faust“^[^645]^ zu bekennen wagt:
 
-:::: {.fs-xxs .wrap-80 .no-margin-top }
-<br />„Was ist mir näher als das Vaterland?<br />
-Die Heimat nur kann uns beseligen, Verräterei,<br />
-die Fremde vorzuziehn! ---<br />
-Nicht Faust wär' ich, wenn ich kein Deutscher wäre!<br />
-O Deutschland! Vaterland! Die Träne hängt<br />
-Mir an der Wimper, wenn ich dein gedenke!<br />
-Kein Land, das herrlicher als du, kein Volk,<br /> 
-Das mächt'ger, edler als wie deines! ---<br /> 
-Unzähl'ge deutsche Adern rollen grad'<br /> 
-So stolz und kühn als Deutschlands Ströme!“ ---
+:::: { .fs-xxs }
+|
+|       „Was ist mir näher als das Vaterland?
+|       Die Heimat nur kann uns beseligen, Verräterei,
+|       die Fremde vorzuziehn! ---
+|       Nicht Faust wär' ich, wenn ich kein Deutscher wäre!
+|       O Deutschland! Vaterland! Die Träne hängt
+|       Mir an der Wimper, wenn ich dein gedenke!
+|       Kein Land, das herrlicher als du, kein Volk,
+|       Das mächt'ger, edler als wie deines! ---
+|       Unzähl'ge deutsche Adern rollen grad'
+|       So stolz und kühn als Deutschlands Ströme!“ ---
+|
+|
 ::::
 
-:::: wrap-50 
+:::: wrap-50
 ![Abschiedsgabe des Durbars von Nepal an den Verfasser. <small>1/12.</small>](Kurt_boeck_indien_nepal_319.jpg "Kurt_boeck_indien_nepal_319.jpg"){#b319}
 ::::
 
@@ -542,7 +545,7 @@ So stolz und kühn als Deutschlands Ströme!“ ---
 [^606]: [WS: *Bergkrankheit*: vergleiche
     [Höhenkrankheit](https://de.wikipedia.org/wiki/Höhenkrankheit)]{.footnote}
 
-[^607]: [WS: *Dr. Berson, Dr. Sühring*: vergleiche [Arthur Berson](https://de.wikipedia.org/wiki/Arthur_Berson) (1859-1942) 
+[^607]: [WS: *Dr. Berson, Dr. Sühring*: vergleiche [Arthur Berson](https://de.wikipedia.org/wiki/Arthur_Berson) (1859-1942)
 		 und [Reinhard Süring](https://de.wikipedia.org/wiki/Reinhard_Süring) (1866-1950)]{.footnote}
 
 [^608]: [WS: *150 Kilometer dicke Atmosphäre*: vergleiche
@@ -590,7 +593,7 @@ So stolz und kühn als Deutschlands Ströme!“ ---
 
 [^621]: [WS: *Liku*: Ort noch nicht identifiziert]{.footnote}
 
-[^622]: [WS: *Taddi Kholas, Trisulganga, Noakot*: vergleiche [Tadi Khola](https://de.wikipedia.org/wiki/Tadi_Khola), 
+[^622]: [WS: *Taddi Kholas, Trisulganga, Noakot*: vergleiche [Tadi Khola](https://de.wikipedia.org/wiki/Tadi_Khola),
 	[Trishuli](https://de.wikipedia.org/wiki/Tadi_Khola) (ganga),
     [Nuwakot](https://de.wikipedia.org/wiki/Nuwakot)]{.footnote}
 
