@@ -21,7 +21,7 @@ Neubelebung dieser Glaubenslehre haben würde.
 
 In seiner Gesellschaft befand sich eine andere interessante, weit über
 Indien hinaus bekannte Persönlichkeit, der Präsident der in 402
-Zweigvereinen über die ganze Welt verbreiteten, von Frau<a name="Seite_36"></a> Blawatzky^[^40]^
+Zweigvereinen über die ganze Welt verbreiteten, von Frau<a id="Seite_36"></a> Blawatzky^[^40]^
 gegründeten theosophischen Gesellschaft, namens Olkott, der, bezeichnend
 genug für die Titelliebe amerikanischer Republikaner, stets mit dem
 Obristen-Rang tituliert wird^[^41]^. Fürst Uchtomsky^[^42]^, einer der

@@ -162,7 +162,7 @@ und geheimnisvollsten Kultushandlungen beizuwohnen, die der Schiwadienst
 kennt, und noch dazu an einer für Europäer im allgemeinen nicht
 zugänglichen Opferstätte dicht neben dem Tempelteich unter dem Schatten
 eines heiligen Bo-Baumes^[^166]^. Daß es sich hier um Schiwa-Verehrung
-handelt, zeigt das gewaltige Lingam-Idol<a name="Seite_101"></a>, die abgerundete Steinsäule als
+handelt, zeigt das gewaltige Lingam-Idol<a id="Seite_101"></a>, die abgerundete Steinsäule als
 Symbol der Schöpfernatur des Gottes Schiwa, der dadurch in seiner
 erhabensten Form als Mahadeva, d. h. als zwar zunächst zerstörende, aber
 zugleich mit der Gabe des Wiedererschaffens ausgestattete Gottheit
@@ -553,5 +553,3 @@ enträtseln.
 
 [^179]: [WS: *Brettspiel mit Bohnen*: im Bild ist ein
     [Mancalabrett](https://de.wikipedia.org/wiki/Mancala) zu erkennen]{.footnote}
-
-

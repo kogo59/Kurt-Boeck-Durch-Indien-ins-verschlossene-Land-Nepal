@@ -311,7 +311,7 @@ Indienforschers und wohl die maßgebendste Autorität hierfür, äußert sich
 über diese Frage in Petermanns geographischen Mitteilungen (1901, Heft
 II) folgendermaßen:^[^626]^
 
-„Gegenüber<a name="Seite_314"></a> den Einwendungen, welche seiner Zeit gegen die Einführung und
+„Gegenüber<a id="Seite_314"></a> den Einwendungen, welche seiner Zeit gegen die Einführung und
 Beibehaltung von Gaurisankar erhoben worden waren, bin ich für den
 Gebrauch dieses Namens eingetreten, und jetzt bin ich in der Lage, die
 Berechtigung hierzu auch gegen den neuesten Versuch zu erweisen, den
@@ -404,7 +404,7 @@ gedacht als ein göttliches Wesen, begleitet von seiner weiblichen Kraft
 
 Ich habe deswegen als das Ergebnis meiner Untersuchungen den Vorschlag
 zu erneuern, für den höchsten Berg der Gebirgsgruppe in Frage den Namen
-Gaurisankar-Everest beizubehalten.“^[^644]^<a name="Seite_316"></a>
+Gaurisankar-Everest beizubehalten.“^[^644]^<a id="Seite_316"></a>
 
 :::: {.wrap-100 .break-before }
 ![Gaurisankar-Everest, der höchste Berg der Erde, von Ost (aus Sikhim) gesehen.
