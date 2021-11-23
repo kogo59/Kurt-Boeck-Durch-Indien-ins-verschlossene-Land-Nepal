@@ -1,4 +1,4 @@
-# 21. Kapitel. <br /><strong>In den Hauptstädten Nepals.</strong><br /><br /> {#Kapitel_einundzwanzig .unnumbered} 
+# 21. Kapitel. <br /><strong>In den Hauptstädten Nepals.</strong><br /><br /> {#Kapitel_einundzwanzig .unnumbered}
 
 :::: wrap-100
 ![Tempel mit Garuda-Standbild und Durbar mit goldener Tür in Patan.^[^554]^](Kurt_boeck_indien_nepal_264.jpg "Kurt_boeck_indien_nepal_264.jpg"){#b264}
@@ -231,7 +231,7 @@ Zwischen diesem Platz und der Stadt liegt der Palast eines früheren
 Premierministers, des Generals Bhim Sen,^[^531]^ neben dem sich eine etwa
 zweihundert Fuß hohe Säule ohne bestimmten Zweck erhebt, die vom
 Volksmunde kurzweg Bhim Sens Narrheit genannt wird;^[^532]^ dieses auf
-[Seite 255](ch021.xhtml#b255A) abgebildete Haus gibt durch seine Bauweise und den Gegensatz
+[Seite 255](ch023.xhtml#b255A) abgebildete Haus gibt durch seine Bauweise und den Gegensatz
 der Palmen in seinem Garten zu dem im Hintergrunde hoch in den blauen
 Himmel hinaufragenden schneeweißen Himalajariesen ein für Nepal sehr
 bezeichnendes Landschaftsbild ab. Doch auch noch in anderer Weise
@@ -646,7 +646,7 @@ erweisen.
 
 ### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
-[^554]: [WS: *Tempel, Garuda, Durbar*: vergleiche [Patan Durbar Square](https://en.wikipedia.org/wiki/Patan_Durbar_Square) (en); 
+[^554]: [WS: *Tempel, Garuda, Durbar*: vergleiche [Patan Durbar Square](https://en.wikipedia.org/wiki/Patan_Durbar_Square) (en);
 		Auf dem Bild zu sehen sind von links nach rechts:
     [Vishwonath-Tempel](https://commons.wikimedia.org/wiki/Category:Vishwonath_Temple,_Patan),
     [Garudasäule](https://commons.wikimedia.org/wiki/Category:Garuda_in_front_of_Krishna_Mandir,_Patan),
@@ -674,27 +674,27 @@ erweisen.
     weitere Newari-Tempel dieser Gruppe sind Vishnu und Indrapur
     geweiht.]{.footnote}
 
-[^526]: [WS: *Marktplatz*: vergleiche [Durbar-Platz (Kathmandu)](https://de.wikipedia.org/wiki/Durbar-Platz_(Kathmandu)) 
+[^526]: [WS: *Marktplatz*: vergleiche [Durbar-Platz (Kathmandu)](https://de.wikipedia.org/wiki/Durbar-Platz_(Kathmandu))
 		Bild ist der auf S. 270 erwähnte Taleju-Tempel]{.footnote}
 
-[^527]: [WS: *in Fäulnis übergegangene Rettiche*: vergleiche [Nepalesische Küche](https://de.wikipedia.org/wiki/Nepalesische_Küche); 
+[^527]: [WS: *in Fäulnis übergegangene Rettiche*: vergleiche [Nepalesische Küche](https://de.wikipedia.org/wiki/Nepalesische_Küche);
 		beliebt ist fermentiertes Gemüse ( hier [Winterrettich](https://de.wikipedia.org/wiki/Winterrettich) bzw.
     [Sinki](https://en.wikipedia.org/wiki/Sinki_(food)), en - mit derselben Berechtigung ist auch Sauerkraut „in Fäulnis übergegangener“ Kohl)]{.footnote}
 
 [^528]: [WS: *Kali / Kala Bhairab*: Vereinigung der Götter
     [Kali](https://de.wikipedia.org/wiki/Kali_(Göttin)) und   
-    [Bhairava](https://de.wikipedia.org/wiki/Bhairava). 
+    [Bhairava](https://de.wikipedia.org/wiki/Bhairava).
     Vergleiche auch [Kal Bhairav in Kathmandu](https://commons.wikimedia.org/wiki/Category:Kal_Bhairav_in_Kathmandu)]{.footnote}
 
 [^529]: [WS: *Tal von Pokhra*: vergleiche [Pokhara Valley](https://en.wikipedia.org/wiki/Pokhara_Valley) (en)]{.footnote}
 
-[^530]: [WS: *Erskin*: vergleiche [John Erskine, 4. Baron Erskine](https://de.wikipedia.org/wiki/John_Erskine,_4._Baron_Erskine) 
+[^530]: [WS: *Erskin*: vergleiche [John Erskine, 4. Baron Erskine](https://de.wikipedia.org/wiki/John_Erskine,_4._Baron_Erskine)
 		(1804-1882; Zivilbeamter in Indien 1826-1853)]{.footnote}
 
 [^531]: [WS: *Bhim Sen*: vergleiche [Bhimsen Thapa](https://de.wikipedia.org/wiki/Bhimsen_Thapa) (regierte als Nachfolger von
     Damodar Pandi, 1806-1837)]{.footnote}
 
-[^532]: [WS: *Volksmund; Bhim Sens Narrheit*: Vergleiche Anmerkung auf [Seite 255](ch021.xhtml#b255A).
+[^532]: [WS: *Volksmund; Bhim Sens Narrheit*: Vergleiche Anmerkung auf [Seite 255](ch023.xhtml#b255A).
 	Ausdrücklich als Wachturm und im Namen von Königin
     Tripurasundari errichtet, war der Dharahara-Turm zugleich als
     antikoloniales Wahrzeichen gedacht]{.footnote}
@@ -710,7 +710,7 @@ erweisen.
 [^536]: [WS: *Talliju*: vergleiche [Taleju Temple](https://commons.wikimedia.org/wiki/Category:Taleju_Temple,_Kathmandu)]{.footnote}
 
 [^537]: [WS: *Bodhmandal- und Kathisambu-Tempel*: waren zwei
-    [Chaityas](https://de.wikipedia.org/wiki/Chaitya)/[Schreine](https://de.wikipedia.org/wiki/Chaitya) (?) 
+    [Chaityas](https://de.wikipedia.org/wiki/Chaitya)/[Schreine](https://de.wikipedia.org/wiki/Chaitya) (?)
     mit angrenzendem [Vihara](https://de.wikipedia.org/wiki/Vihara) im Viertel
     *Lagan Tole* und nach dem Bericht von Lt. Col. George Hart Desmond
     Gimlette (*Nepal and the Nepalese*) aus den 1880er Jahren in
@@ -763,4 +763,3 @@ erweisen.
 
 [^553]: [WS: *Biar oder Wihara*: vergleiche vorherige Anmerkung zu Vihara,
     Biar/Bihar leiten sich hiervon ab.]{.footnote}
-    

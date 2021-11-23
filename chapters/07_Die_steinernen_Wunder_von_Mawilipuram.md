@@ -33,26 +33,26 @@ unbewußt durch unausgesetzte Betäubungen aus dem Wege zu gehen suchen.
 Uns selbst in einem möglichst üppigen Rahmen zu sehen, das ist das Ziel,
 nach dem wir am meisten streben, und jener prunklose, einsame Weg nach
 innen, den die Zeitgenossen des Sophokles beschritten, kommt gerade
-so aus der Mode, wie er bei den Römern der Kaiserzeit in Vergessenheit kam. 
+so aus der Mode, wie er bei den Römern der Kaiserzeit in Vergessenheit kam.
 
 :::: { .float-right .w-60 }
 ![Reise- und Küchenboot des Verfassers.](Kurt_boeck_indien_nepal_093A.jpg "Kurt_boeck_indien_nepal_093A.jpg"){#b093A}
 ::::
 
-Für eine solche beschauliche Reise muß man mindestens zwei Kähne mieten, einen für sich und seine 
-Reisegesellschaft; den anderen für den Koch und dessen Küche, sowie für 
-denjenigen Teil der Dienerschaft, dessen Anwesenheit auf dem Herrenboot nicht verlangt wird. 
-Wie ein besserer europäischer Haushalt in Indien wegen des stets nur ganz beschränkten Leistungsgebietes, 
-das jeder Diener übernimmt, ein wahres Heer von Dienstboten-Geistern nötig hat, muß man auch auf einer 
-längeren Bootreise, um für einen Gentleman zu gelten und in jedem leeren Bungalo 
-standesgemäß hausen zu können, eine ganze Menge von Würdenträgern bis hinunter zum Wäscher, 
-Lampenputzer und Hundejungen mitnehmen. 
+Für eine solche beschauliche Reise muß man mindestens zwei Kähne mieten, einen für sich und seine
+Reisegesellschaft; den anderen für den Koch und dessen Küche, sowie für
+denjenigen Teil der Dienerschaft, dessen Anwesenheit auf dem Herrenboot nicht verlangt wird.
+Wie ein besserer europäischer Haushalt in Indien wegen des stets nur ganz beschränkten Leistungsgebietes,
+das jeder Diener übernimmt, ein wahres Heer von Dienstboten-Geistern nötig hat, muß man auch auf einer
+längeren Bootreise, um für einen Gentleman zu gelten und in jedem leeren Bungalo
+standesgemäß hausen zu können, eine ganze Menge von Würdenträgern bis hinunter zum Wäscher,
+Lampenputzer und Hundejungen mitnehmen.
 
-Für den Ausflug zu den „sieben Pagoden“ von Mawilipuram begnügte ich mich neben dem Küchenpersonal 
-mit meinem Faktotum, einem pfiffigen Tamulen, der sich hatte überreden lassen, 
-Christ zu werden, und der in der Taufe höchst geschmackloserweise den Rufnamen Jesus erhalten hatte. 
-Weder für Geld noch gute Worte wollte sich der braunschwarze fromme Knabe dazu verstehen, 
-wenigstens für die Zeit seiner Dienstleistung bei mir einen weniger heiligen Namen anzunehmen, 
+Für den Ausflug zu den „sieben Pagoden“ von Mawilipuram begnügte ich mich neben dem Küchenpersonal
+mit meinem Faktotum, einem pfiffigen Tamulen, der sich hatte überreden lassen,
+Christ zu werden, und der in der Taufe höchst geschmackloserweise den Rufnamen Jesus erhalten hatte.
+Weder für Geld noch gute Worte wollte sich der braunschwarze fromme Knabe dazu verstehen,
+wenigstens für die Zeit seiner Dienstleistung bei mir einen weniger heiligen Namen anzunehmen,
 und so konnte es nicht
 ausbleiben, daß mir hin und wieder ein aufgebrachtes „Jesus, wo steckst
 du denn?“ oder ähnliche Kraftworte über die Lippen sprangen; in der Nähe
@@ -193,7 +193,7 @@ darbringt.
     regierte 1658-1707]{.footnote}
 
 [^154]: [WS: *Lingam*: vergleiche [Linga](https://de.wikipedia.org/wiki/Linga), auf die
-    Lingam-Verehrung geht Boeck auf [Seite 101](ch009.xhtml#Seite_101) genauer ein]{.footnote}
+    Lingam-Verehrung geht Boeck auf [Seite 101](ch011.xhtml#Seite_101) genauer ein]{.footnote}
 
 [^155]: [WS: *Ellora*: vergleiche
     [Ellora-Höhlen](https://de.wikipedia.org/wiki/Ellora-Höhlen)]{.footnote}
@@ -215,4 +215,3 @@ darbringt.
 
 [^161]: [WS: *Mahabharata*: vergleiche
     [Mahabharata](https://de.wikipedia.org/wiki/Mahabharata)]{.footnote}
-

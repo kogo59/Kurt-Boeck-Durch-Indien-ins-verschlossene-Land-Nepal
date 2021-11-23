@@ -586,7 +586,7 @@ abseits der Eisenbahnen.
 
 [^91]: [WS: *Anna*: vergleiche [Anna](https://de.wikipedia.org/wiki/Anna_(Münznominal))]{.footnote}
 
-[^92]: [WS: *Birmazigarre*: vergleiche [Seite 41](ch004.xhtml#b041)]{.footnote}
+[^92]: [WS: *Birmazigarre*: vergleiche [Seite 41](ch006.xhtml#b041)]{.footnote}
 
 [^93]: [WS: *Makulatur*: vergleiche [Makulatur](https://de.wikipedia.org/wiki/Makulatur)]{.footnote}
 

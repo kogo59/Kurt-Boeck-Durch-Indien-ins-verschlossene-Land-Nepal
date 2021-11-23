@@ -582,7 +582,7 @@ Dreizack erheben.
     siehe [Durga](https://de.wikipedia.org/wiki/Durga)]{.footnote}
 
 [^571]: [WS: *gigantischer Dschagannathtempel*: wohl nicht der auf dem
-    Durbar-Platz von Kathmandu (vergleiche [Seite 265](ch022.xhtml#b272A)), der zu den
+    Durbar-Platz von Kathmandu (vergleiche [Seite 265](ch024.xhtml#b272A)), der zu den
     ältesten Bauwerken der Stadt gehören soll]{.footnote}
 
 [^572]: [WS: *Badrinath*: vergleiche [Badrinath](https://de.wikipedia.org/wiki/Badrinath)]{.footnote}
@@ -627,7 +627,7 @@ Dreizack erheben.
     Jahrhundert)]{.footnote}
 
 [^584]: [WS: *G. P. Blawatzky*: vergleiche [Helena Blavatsky](https://de.wikipedia.org/wiki/Helena_Blavatsky) (falsche Initialen
-    angegeben; vgl. auch [Seite 36](ch004.xhtml#Seite_36))); eventuell ist hier die Passage *Amagical séance in Bengal* aus *[Isis
+    angegeben; vgl. auch [Seite 36](ch006.xhtml#Seite_36))); eventuell ist hier die Passage *Amagical séance in Bengal* aus *[Isis
     entschleiert](https://de.wikipedia.org/wiki/Isis_entschleiert)* (1877) gemeint.]{.footnote}
 
 [^585]: [WS: *Amerikaner Bancroft*: eventuell Frederick Bancroft,
