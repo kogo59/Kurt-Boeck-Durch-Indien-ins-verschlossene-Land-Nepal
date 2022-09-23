@@ -107,7 +107,7 @@ Das Ehrfurcht König Alberts Manen weiht.
 
 ::::
 
-## *Vorwort* {.break-before .unnumbered epub:type=prologue }
+## *Vorwort* {.break-before .unnumbered  }
 
 ::: justified 
 **D**as Studium der Menschheit ist „der Mensch“! Wer diesem Wahlspruch
