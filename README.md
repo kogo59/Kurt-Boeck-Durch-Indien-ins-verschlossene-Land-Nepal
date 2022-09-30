@@ -1,5 +1,7 @@
 # Durch Indien ins verschlossene Land Nepal
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193356550-d66e56f4-7b7e-4c03-ae9d-b1b599bcfedb.jpg">
+
 This is a git repository of the source files for the book "Durch Indien ins verschlossene Land Nepal" by Kurt Boeck.
 
 # License
