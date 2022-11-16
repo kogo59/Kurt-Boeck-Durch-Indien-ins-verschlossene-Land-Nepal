@@ -22,5 +22,4 @@ before January 1, 1924.
 * Scan at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Durch_Indien_ins_verschlossene_Land_Nepal.pdf)
 * Digital copy by [de.wikisource.org](https://de.wikisource.org/wiki/Durch_Indien_ins_verschlossene_Land_Nepal)
 
-# ePUB
-Durch Indien ins verschlossene Land Nepal. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=336319)
+
