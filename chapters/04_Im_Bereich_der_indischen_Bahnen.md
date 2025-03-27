@@ -528,9 +528,7 @@ abseits der Eisenbahnen.
 ![&nbsp;](Kurt_boeck_indien_nepal_067.jpg "Kurt_boeck_indien_nepal_067.jpg"){#b067}
 ::::
 :::
-****
 
-### **Anmerkungen (Wikisource)** {.break-before  .unnumbered}
 
 [^72]: [WS: *Bombay, Madras*: vergleiche [Mumbai](https://de.wikipedia.org/wiki/Mumbai),
     [Chennai](https://de.wikipedia.org/wiki/Chennai)]{.footnote}

@@ -611,9 +611,6 @@ Sonnenlichtes nicht missen mögen.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^342]: [WS: *Chait Singh*: vergleiche [Chait Singh](https://en.wikipedia.org/wiki/Chait_Singh), regierte 1770-1781]{.footnote}
 

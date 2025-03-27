@@ -677,9 +677,6 @@ meiner merkwürdigsten dort verlebten Tage beschließe.
 ::::
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^38]: [WS: *Prinz Ginavaravansa von Siam*: vergleiche Prinz
     [Prisdang](https://de.wikipedia.org/wiki/Prisdang) von Siam (1851---1935), Mönchsname

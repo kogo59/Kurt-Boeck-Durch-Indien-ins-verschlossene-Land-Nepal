@@ -278,9 +278,6 @@ scheint weniger bekannt zu sein, als man erwarten sollte.
 
 :::
 
-****
-
-### **Anmerkungen** (Wikisource) {.break-before .unnumbered}
 
 [^589]: [WS: *Nux vomica*: vergleiche [Gewöhnliche Brechnuss; Nutzung](https://de.wikipedia.org/wiki/Gewöhnliche_Brechnuss#Nutzung)]{.footnote}
 

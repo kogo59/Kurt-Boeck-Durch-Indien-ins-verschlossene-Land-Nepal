@@ -944,10 +944,6 @@ sein würden.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^405]: [WS: *Dr. Hübbe-Schleiden*: vergleiche [Wilhelm Hübbe-Schleiden](https://de.wikipedia.org/wiki/Wilhelm_Hübbe-Schleiden)]{.footnote}
 
 [^406]: [WS: *Pörda*: vergleiche [Parda](https://de.wikipedia.org/wiki/Parda), besser

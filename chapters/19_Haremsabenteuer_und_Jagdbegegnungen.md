@@ -471,10 +471,6 @@ reichem Maße zu lohnen versprach.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^488]: [WS: *Bam Bahadur*: vergleiche [Bam Bahadur Kunwar](https://en.wikipedia.org/wiki/Bam_Bahadur_Kunwar) Rana (1818-1857),
     Bruder Jang Bahadurs.]{.footnote}
 

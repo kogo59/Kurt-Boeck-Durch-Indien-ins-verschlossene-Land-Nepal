@@ -549,9 +549,6 @@ leibhaftige Gottseibeiuns auf der Bildfläche erschienen wäre. Zum Glück
 gibt es aber auch hier manchmal Ausnahmen von der Regel.
 :::
 
-***
-
-### **Anmerkungen** (Wikisource) {.break-before .unnumbered}
 
 [^443]: [WS: *Himalaja*: vergleiche [Himalaya](https://de.wikipedia.org/wiki/Himalaya) (,Wohnsitz des Schnees)]{.footnote}
 

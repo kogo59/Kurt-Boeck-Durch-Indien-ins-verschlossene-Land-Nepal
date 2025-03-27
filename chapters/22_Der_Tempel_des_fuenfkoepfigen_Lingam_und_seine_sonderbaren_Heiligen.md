@@ -541,9 +541,6 @@ Dreizack erheben.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^557]: [WS: *Radsch-Guru*: vergleiche [Rajguru](https://en.wikipedia.org/wiki/Rajguru) (en)]{.footnote}
 

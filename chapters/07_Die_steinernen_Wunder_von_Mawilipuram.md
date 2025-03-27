@@ -176,10 +176,6 @@ darbringt.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^150]: [WS: *Tempel an der Küste*: vergleiche
     [Küstentempel](https://de.wikipedia.org/wiki/Küstentempel)]{.footnote}
 

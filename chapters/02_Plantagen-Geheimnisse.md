@@ -769,10 +769,6 @@ verehrt wurden.
 ::::
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^16]: [WS: *Alegalla*: vergleiche [Alagalla Mountain Range](https://en.wikipedia.org/wiki/Alagalla_Mountain_Range)]{.footnote}
 
 [^17]: [WS: *Neware Elija*: vergleiche [Nuwara Eliya](https://de.wikipedia.org/wiki/Nuwara_Eliya)]{.footnote}

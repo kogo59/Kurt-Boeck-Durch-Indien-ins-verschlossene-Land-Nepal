@@ -1,7 +1,6 @@
 ﻿% Durch Indien ins verschlossene Land Nepal
 % Dr. Kurt Boeck
 	Digitale Ausgabe erstellt von [de.wikisource.org](https://de.wikisource.org/wiki/Durch_Indien_ins_verschlossene_Land_Nepal).
-	E-Buch erstellt von kogo@gmx.de.
 	Leipzig, Ferdinand Hirt & Sohn<br /><br />
   Der [Urheber](https://de.wikipedia.org/wiki/Kurt_Boeck) dieses Werks ist 1933 gestorben, es ist daher gemeinfrei,
   weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das

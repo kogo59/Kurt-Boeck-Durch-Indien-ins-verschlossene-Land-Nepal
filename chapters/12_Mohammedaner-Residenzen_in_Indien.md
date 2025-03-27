@@ -616,10 +616,6 @@ verziert worden, doch wurden auch diese von den Moslems arg beschädigt.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^274]: [WS: *Moschee der fünfhundert Säulen*: vergleiche [Jama Masjid](https://de.wikipedia.org/wiki/Jama_Masjid_(Ahmedabad))]{.footnote}
 
 [^275]: [WS: *Agra, Tadsch*: vergleiche [Agra](https://de.wikipedia.org/wiki/Agra), [Taj Mahal](https://de.wikipedia.org/wiki/Taj_Mahal)]{.footnote}

@@ -537,11 +537,6 @@ mit dem Helden in Grabbes „Don Juan und Faust“^[^645]^ zu bekennen wagt:
 :::
 
 
-
-****
-
-### **Anmerkungen** (Wikisource) {.break-before .unnumbered}
-
 [^606]: [WS: *Bergkrankheit*: vergleiche
     [Höhenkrankheit](https://de.wikipedia.org/wiki/Höhenkrankheit)]{.footnote}
 

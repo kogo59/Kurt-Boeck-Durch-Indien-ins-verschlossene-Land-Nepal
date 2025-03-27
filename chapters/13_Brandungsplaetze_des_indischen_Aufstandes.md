@@ -479,10 +479,6 @@ technischen Gebieten erscheinen muß.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^314]: [WS: *Kaiser-Bagh, Laknau*: vergleiche [Qaisar Bagh](https://en.wikipedia.org/wiki/Qaisar_Bagh),
     [Lucknow](https://de.wikipedia.org/wiki/Lucknow)]{.footnote}
 

@@ -270,8 +270,6 @@ auf den Kopf, so daß dem armen Menschen sein kleiner schwarzer Turban
 
 :::
 
-****
-### **Anmerkungen** (Wikisource) {.break-before .unnumbered}
 
 [^602]: [WS: *Indra*: vergleiche [Indra](https://de.wikipedia.org/wiki/Indra)]{.footnote}
 

@@ -535,10 +535,6 @@ liegende Element zu streuen.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^202]: [WS: *Viktoria-Terminus-Bahnhof*: vergleiche [Chhatrapati Shivaji Terminus](https://de.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus)]{.footnote}
 
 [^203]: [WS: *Watsonhotels*: vergleiche [Watson\'s Hotel](https://en.wikipedia.org/wiki/Watson's_Hotel)]{.footnote}

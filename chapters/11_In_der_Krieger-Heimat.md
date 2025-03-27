@@ -699,10 +699,6 @@ Schußweite entgegen.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^240]: [WS: *Radschputana*: vergleiche [Rajasthan](https://de.wikipedia.org/wiki/Rajasthan)
      oder [Rajputen](https://de.wikipedia.org/wiki/Rajputen)]{.footnote}
 

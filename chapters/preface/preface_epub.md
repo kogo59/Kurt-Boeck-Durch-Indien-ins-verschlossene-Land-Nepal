@@ -498,7 +498,6 @@ Fragen anregen möge!
 Nepal, die in diesem Buche vorkommen.](Kurt_boeck_indien_nepal_!05.png "Kurt_boeck_indien_nepal_!05.png"){}
 ::::
 
-### **Anmerkungen** { .break-before .unnumbered}
 
 [^700]: [Die Negativplatten der mit P. Z. bezeichneten, gleich allen anderen vom
 	Verfasser aufgenommenen Bilder sind Eigentum der

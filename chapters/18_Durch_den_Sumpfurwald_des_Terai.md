@@ -402,10 +402,6 @@ Land“ zu summen schien.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^471]: [WS: *Semrabassa*: vergleiche [Pipara Simara](https://en.wikipedia.org/wiki/Pipara_Simara) (en)]{.footnote}
 
 [^472]: [WS: *Bagmati, Gandak, Kosi*: Flüsse, vergleiche [Bagmati (Fluss)](https://de.wikipedia.org/wiki/Bagmati_(Fluss)),

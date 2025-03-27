@@ -293,18 +293,14 @@ Händen bald Früchte, bald Reis oder sonstige Speisen gelegt werden.
 ![Kamel-Kavallerist.](Kurt_boeck_indien_nepal_115.jpg "Kurt_boeck_indien_nepal_115.jpg"){#b115}
 ::::
 
-::::
-
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
+:::
 
 [^180]: [WS: *Musi*: vergleiche [Musi](https://de.wikipedia.org/wiki/Musi_(Indien))]{.footnote}
 
 [^181]: [WS: *Neisam/Nizam*: vergleiche [Nizam](https://de.wikipedia.org/wiki/Nizam)]{.footnote}
 
 [^182]: [WS: *Heidrabad*: vergleiche [Hyderabad (Staat)](https://de.wikipedia.org/wiki/Hyderabad_(Staat)) und 
-	[Hyderabad (Indien](https://de.wikipedia.org/wiki/Hyderabad_(Indien))]{.footnote}
+	[Hyderabad (Indien)](https://de.wikipedia.org/wiki/Hyderabad_(Indien))]{.footnote}
 
 [^183]: [WS: *Golkonda*: vergleiche [Golkonda](https://de.wikipedia.org/wiki/Golkonda)]{.footnote}
 
@@ -332,12 +328,12 @@ Händen bald Früchte, bald Reis oder sonstige Speisen gelegt werden.
 
 [^191]: [WS: *Lungar-Prozession*: Erklärung des Namens durch Boeck auf
     Folgeseite (vergleiche etwa: Harriet Ronken Lynton: *Days Of The
-    Beloved*, S. 77f.
+    Beloved*, S. 77f.)
     [Digitalisat](https://books.google.de/books?id=f5w9_mkaCYkC), (en);
     alternativ auch ein Hinweis auf eine
     [Langar](https://de.wikipedia.org/wiki/Langar)-Speisung (vergleiche auch: [Times of
     India, Langar Parade](https://timesofindia.indiatimes.com/city/hyderabad/langar-parade-legacy-lost-in-hyderabads-muharram-might/articleshow/60878022.cms),
-    (en)]{.footnote}
+    (en))]{.footnote}
 
 [^192]: [WS: *Tschadar Ghat*: vergleiche
     [Chaderghat](https://en.wikipedia.org/wiki/Chaderghat)]{.footnote}

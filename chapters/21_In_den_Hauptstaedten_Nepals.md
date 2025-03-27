@@ -642,9 +642,6 @@ erweisen.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^554]: [WS: *Tempel, Garuda, Durbar*: vergleiche [Patan Durbar Square](https://en.wikipedia.org/wiki/Patan_Durbar_Square) (en);
 		Auf dem Bild zu sehen sind von links nach rechts:

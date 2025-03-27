@@ -338,10 +338,6 @@ grundsätzlich nicht betreten dürfen.
 
 ::::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^500]: [WS: *Bhim Sens Narrheit*: vergleiche
     [Dharahara-Turm](https://de.wikipedia.org/wiki/Dharahara-Turm). Wörtliche
     Übersetzung einer zeitgenössischen englischen Bezeichnung,

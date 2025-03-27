@@ -504,9 +504,6 @@ halb freundliches Benehmen veranlaßt hat, vermag ich nicht zu
 enträtseln.
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^162]: [WS: *Kondscheweram*: vergleiche
     [Kanchipuram](https://de.wikipedia.org/wiki/Kanchipuram)]{.footnote}

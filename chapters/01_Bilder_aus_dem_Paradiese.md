@@ -635,11 +635,6 @@ aus mehr oder weniger edlem Metall.
 
 :::
 
-****
-
-
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^1]: [WS: *Kolombo*: vergleiche [Colombo](https://de.wikipedia.org/wiki/Colombo)]{.footnote}
 

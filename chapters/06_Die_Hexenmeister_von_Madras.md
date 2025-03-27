@@ -456,9 +456,6 @@ Vorhang „verschwinden“ konnte.
 
 :::
 
-****
-
-### ***Anmerkungen (Wikisource)*** {.break-before .unnumbered}
 
 [^139]: [WS: *Gerichtsgebäude von Madras*: vergleiche [Madras High
     Court](https://de.wikipedia.org/wiki/Madras_High_Court)]{.footnote}

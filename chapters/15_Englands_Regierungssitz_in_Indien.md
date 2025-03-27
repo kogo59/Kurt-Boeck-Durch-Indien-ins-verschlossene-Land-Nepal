@@ -490,10 +490,6 @@ herhalten müssen.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
-
 [^373]: [WS: *Outram, Maidan in Kalkutta*: vergleiche [James Outram (General)](https://de.wikipedia.org/wiki/James_Outram_(General))
 		[Maidan (Kolkata)](https://en.wikipedia.org/wiki/Maidan_(Kolkata)) (en)]{.footnote}
 

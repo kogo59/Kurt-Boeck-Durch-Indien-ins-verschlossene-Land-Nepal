@@ -510,9 +510,6 @@ gewöhnlich bereits durch früher eingetroffene Reisende besetzt findet.
 
 :::
 
-****
-
-### **Anmerkungen (Wikisource)** {.break-before .unnumbered}
 
 [^105]: [WS: *Südwestmonsun*: vergleiche [Monsun](https://de.wikipedia.org/wiki/Monsun)]{.footnote}
 
